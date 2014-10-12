@@ -42,10 +42,11 @@
             <img src="img/slide_3.jpg" alt="...">
 
             <div class="carousel-caption">
-                <h3>发现您天赐的天赋</h3>
+                <h3>癌症，是基因突变的累积</h3>
 
-                <p>还在为如何培养孩子而苦恼吗？天赋基因检测帮您发现孩子最适合的发展方向。</p>
-                <p>每个孩子都是某方面的天才，让我们帮助家里的小天才成长为真正的天骄！</p>
+                <p>单个细胞突变==>米粒大小的肿瘤,8-10年，多数无症状</p>
+                <p>米粒==>杏仁，半年到一年，甚至更短， 杏仁==>晚期，2-6个月</p>
+                <p>不检测一下，你能放心吗？</p>
             </div>
         </div>
 
@@ -71,10 +72,10 @@
     </div>
 
     <div class="bottom-padding col-sm-6 col-md-6">
-        <blockquote>
-            <footer>发现天赋，而非创造天赋</footer>
-        </blockquote>
-        <p>每个人都是独一无二的天才，<strong>天骄系列基因检测</strong>，发现您的孩子深藏在基因中的天赋。当初如果早就知道自己的天赋所在，还会走那么多错误的路来尝试吗？我，不要下一代泯然众人！</p>
+        {{--<blockquote>--}}
+            {{--<footer>发现天赋，而非创造天赋</footer>--}}
+        {{--</blockquote>--}}
+        {{--<p>每个人都是独一无二的天才，<strong>天骄系列基因检测</strong>，发现您的孩子深藏在基因中的天赋。当初如果早就知道自己的天赋所在，还会走那么多错误的路来尝试吗？我，不要下一代泯然众人！</p>--}}
 
 
 
@@ -87,7 +88,9 @@
         <p>我究竟是不是必须购买商业保险？</p>
         <p>我究竟...</p>
 
-        <strong>天赐系列基因检测</strong>，你，拥有自己分子级生命说明书吗？</p>
+        <p><strong>天赐系列基因检测</strong>，找到基因可以告诉你的事。</p>
+        <p>这段填写最终定稿的广告语</p>
+        <p>你，拥有自己分子级生命说明书吗？</p>
     </div>
 
     <div class="bottom-padding col-sm-6 col-md-6">
@@ -96,7 +99,7 @@
                 <div class="panel-heading">
                     <div class="panel-title">
                         <a data-toggle="collapse" data-parent="#accordion" href="#collapse1">
-                            Portfolio Pages
+                            基因检测与重大疾病预防
                         </a>
                     </div>
                 </div>
@@ -112,7 +115,7 @@
                 <div class="panel-heading">
                     <div class="panel-title">
                         <a data-toggle="collapse" data-parent="#accordion" href="#collapse2">
-                            Gallery Pages
+                            基因检测与个性化用药
                         </a>
                     </div>
                 </div>
@@ -129,7 +132,7 @@
                 <div class="panel-heading">
                     <div class="panel-title">
                         <a data-toggle="collapse" data-parent="#accordion" href="#collapse3">
-                            Styles Pages
+                            基因检测与生活方式
                         </a>
                     </div>
                 </div>
@@ -151,7 +154,7 @@
                 <div class="panel-heading">
                     <div class="panel-title">
                         <a data-toggle="collapse" data-parent="#accordion" href="#collapse4">
-                            Shop Pages
+                            基因检测的重要性
                         </a>
                     </div>
                 </div>
@@ -174,7 +177,7 @@
 
 <div class="row">
     <div class="title-box text-center col-sm-12 col-md-12">
-        <h1 class="title">天赐</h1>
+        <h1 class="title">天赐基因检测</h1>
     </div>
 
     <div class="bottom-padding col-sm-6 col-md-6">
@@ -184,35 +187,30 @@
     <div class="bottom-padding col-sm-6 col-md-6">
         <p>天赐基因检测简介</p>
 
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque quidem voluptatum distinctio reiciendis
-            blanditiis magni ex dolorum hic soluta sunt laboriosam asperiores architecto est repellat cum explicabo
-            ipsam ab quis quaerat animi accusantium voluptates reprehenderit ipsa consequuntur inventore nobis
-            nisi?</p>
-        <a href=""><button type="button" class="btn btn-primary">天赐系列详细介绍</button></a>
+        <p>这里写具体原理和一些故事</p>
+        <a href=""><button type="button" class="btn btn-primary">检测流程</button></a>
     </div>
 </div>
 
 <div class="row">
     <div class="title-box text-center col-sm-12 col-md-12">
-        <h1 class="title">天骄</h1>
+        <h1 class="title">领先的技术</h1>
     </div>
 
     <div class="bottom-padding col-sm-6 col-md-6">
-        <p>天骄基因检测简介</p>
+        <p>上海邦禾生物科技有限公司坐落于中国（上海）自由贸易实验区，注册资金一亿元人民币，是一家专业从事基因检测的高科技企业。</p>
 
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque quidem voluptatum distinctio reiciendis
-            blanditiis magni ex dolorum hic soluta sunt laboriosam asperiores architecto est repellat cum explicabo
-            ipsam ab quis quaerat animi accusantium voluptates reprehenderit ipsa consequuntur inventore nobis
-            nisi?</p>
-        <a href=""><button type="button" class="btn btn-primary">天娇系列详细介绍</button></a>
+        <p>邦禾基因检测平台-生物芯片上海国家工程研究中心，代表着中国在生物芯片基因检测领域的最高科技权威。生物芯片上海国家工程研究中心由上海生命科学院、国家人类基因组南方中心、复旦大学、交通大学等股东单位组建而成，国家发改委委员会于2003年3月正式批复成立，总投资2.9亿元人民币，是我国投资规模最大的生物技术中心之一，也是我国在生物芯片领域研发的代表单位。</p>
+
+        <p>中心聚集众多位博士、硕士、留学归国人员等尖端科技人员，获得国家863计划、973计划、上海市重大项目等科研资助逾6000万元。</p>
+        <a href=""><button type="button" class="btn btn-primary">查看套餐</button></a>
     </div>
 
     <div class="bottom-padding col-sm-6 col-md-6">
         <img src="img/tianjiao.jpg" class="img-responsive img-rounded center-block" alt=""/>
     </div>
-
-
 </div>
+
 
 
 <div class="row bottom-padding bottom-padding-mini">
@@ -225,7 +223,7 @@
             <div class="big-icon bg" data-appear-animation="fadeInUp"><i class="fa fa-plus"></i></div>
             <h4 class="title">基因检测</h4>
 
-            <div class="text-small">经过最先进科技的基因检测，得到您自己的分子级生命说明书
+            <div class="text-small">最先进的基因检测技术，帮助您得到自己的分子级生命说明书
             </div>
         </a>
     </div>
@@ -236,7 +234,7 @@
             <div class="big-icon bg" data-appear-animation="fadeInUp"><i class="fa fa-book"></i></div>
             <h4 class="title">分析报告</h4>
 
-            <div class="text-small">根据您的基因检测结果，由专家分析，专属于您的身体分析报告，并有针对性建议
+            <div class="text-small">根据您的基因检测结果，由专家分析，专属于您的身体分析报告，包含系统化的养生，饮食，运动，治疗建议等
             </div>
         </a>
     </div>
@@ -247,7 +245,7 @@
             <div class="big-icon bg" data-appear-animation="fadeInUp"><i class="fa fa-users"></i></div>
             <h4 class="title">后期服务</h4>
 
-            <div class="text-small">终生免费专家咨询，强大的社区，让人生之路更清晰
+            <div class="text-small">终生免费专家咨询，强大的社区，让您的人生之路更加健康幸福
             </div>
         </a>
     </div>
@@ -413,7 +411,7 @@
 
 <div class="bottom-padding">
     <div class="title-box text-center">
-        <h1 class="title">价格</h1>
+        <h1 class="title">天赐基因检测套餐</h1>
     </div>
     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio quaerat nemo nam quibusdam doloribus quo
         minima iure sequi vitae optio consequatur necessitatibus fugit voluptatem voluptas sapiente quis cupiditate.
