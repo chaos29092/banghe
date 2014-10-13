@@ -5,56 +5,7 @@
 .fwb-bg.band-1 {
   background-image: url('../../img/content/band-1.jpg');
 }
-.fwb-bg.band-2 {
-  background-image: url('../../img/content/band-2.jpg');
-}
-.fwb-bg.band-3 {
-  background-image: url('../../img/content/band-3.jpg');
-}
-.fwb-bg.band-4 {
-  background-image: url('../../img/content/band-4.jpg');
-}
-.fwb-bg.band-5 {
-  background-image: url('../../img/content/band-5.jpg');
-}
-.fwb-bg.band-6 {
-  background-image: url('../../img/content/band-6.jpg');
-}
-.fwb-bg.band-7 {
-  background-image: url('../../img/content/band-7.jpg');
-}
-.fwb-bg.band-8 {
-  background-image: url('../../img/content/band-8.jpg');
-}
-.fwb-bg.band-9 {
-  background-image: url('../../img/content/band-9.jpg');
-}
-.fwb-bg.band-10 {
-  background-image: url('../../img/content/band-10.jpg');
-}
-.fwb-bg.band-11 {
-  background-image: url('../../img/content/band-11.jpg');
-}
-.fwb-bg.band-12 {
-  background-image: url('../../img/content/band-12.jpg');
-}
-.fwb-bg.band-13 {
-  background-image: url('../../img/content/band-13.jpg');
-}
-.fwb-bg.band-14 {
-  background-image: url('../../img/content/band-14.jpg');
-}
-.fwb-bg.band-15 {
-  background-image: url('../../img/content/band-15.jpg');
-}
-.fwb-bg.band-16 {
-  background-image: url('../../img/content/band-16.jpg');
-}
-.fwb-bg.band-17 {
-  background-image: url('../../img/content/band-17.jpg');
-}
-.fwb-bg.band-18 {
-  background-image: url('../../img/content/band-18.jpg');
+
 }
 .overlay.zero {
   opacity: 0 !important;

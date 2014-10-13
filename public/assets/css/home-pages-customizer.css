@@ -189,6 +189,11 @@
 .slider .slid-content{
   color: #fff;
 }
-.product .product-hover ul li {
-  background-image: url("../../img/svg/check-icon-white.svg"), none;
+
+#tem blockquote {
+    color: #f1f1f1;
+}
+
+#tem blockquote footer{
+    color: #f1f1f1;
 }
