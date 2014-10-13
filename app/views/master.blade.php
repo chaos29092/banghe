@@ -76,21 +76,21 @@
                                         </li>
 
                                         <li class="item-primary item-bg">
-                                            <a href="#" target="_blank">检测流程</a>
+                                            <a href="{{asset('process')}}">检测流程</a>
                                         </li>
                                         <li class="item-primary item-bg">
-                                            <a href="#" target="_blank">关于我们</a>
+                                            <a href="{{asset('about_us')}}">关于我们</a>
                                         </li>
                                         <li class="parent item-primary item-bg">
                                             <a href="#">帮助</a>
                                             <ul class="sub">
-                                                <li><a href="bootstrap-alerts.html">渠道合作</a></li>
+                                                <li><a href="{{asset('channel')}}">渠道合作</a></li>
                                                 <li><a href="bootstrap-buttons.html">DNA百科</a></li>
                                             </ul>
                                         </li>
                                         <li class="item-danger item-bg text-danger">
-                                            <a href="#"
-                                               target="_blank">现在购买！<span class="item-new">抢</span></a>
+                                            <a href="{{asset('buy')}}"
+                                               target="_blank">如何购买！<span class="item-new">抢</span></a>
                                         </li>
                                     </ul>
                                 </nav>
@@ -121,23 +121,23 @@
             <div class="row sidebar">
                 <aside class="col-xs-12 col-sm-6 col-md-3 widget social">
                     <div class="title-block">
-                        <h3 class="title">Follow Us</h3>
+                        <h3 class="title">渠道合作</h3>
                     </div>
-                    <p>Follow us in social media</p>
-                    <a class="sbtnf sbtnf-rounded color color-hover icon-facebook" href="#"></a>
-                    <a class="sbtnf sbtnf-rounded color color-hover icon-twitter" href="#"></a>
-                    <a class="sbtnf sbtnf-rounded color color-hover icon-gplus" href="#"></a>
-                    <a class="sbtnf sbtnf-rounded color color-hover icon-linkedin" href="#"></a>
-
+<address>
+  <strong>为更好的开拓市场</strong><br>
+  诚招代理商<br>
+  有意者请联系我们。<br>
+  <abbr>招商电话:</abbr> 400-XXXXX
+</address>
                     <div class="clearfix"></div>
                 </aside>
 
                 <aside class="col-xs-12 col-sm-6 col-md-3 widget newsletter">
                     <div class="title-block">
-                        <h3 class="title">Newsletter Signup</h3>
+                        <h3 class="title">合作伙伴</h3>
                     </div>
                     <div>
-                        <p>Sign up for newsletter</p>
+                        <p>此处列一些相关资源站</p>
 
                         <div class="clearfix"></div>
                         <form>
@@ -150,28 +150,28 @@
 
                 <aside class="col-xs-12 col-sm-6 col-md-3 widget links">
                     <div class="title-block">
-                        <h3 class="title">Information</h3>
+                        <h3 class="title">快速链接</h3>
                     </div>
                     <nav>
                         <ul>
-                            <li><a href="#">About us</a></li>
-                            <li><a href="#">Privacy Policy</a></li>
-                            <li><a href="#">Terms &amp; Condotions</a></li>
-                            <li><a href="#">Secure payment</a></li>
+                            <li><a href="{{asset('about_us')}}">关于邦禾</a></li>
+                            <li><a href="{{asset('process')}}">检测流程</a></li>
+                            <li><a href="{{asset('channel')}}">渠道合作</a></li>
+                            <li><a href="{{asset('buy')}}">如何购买</a></li>
                         </ul>
                     </nav>
                 </aside>
 
                 <aside class="col-xs-12 col-sm-6 col-md-3 widget links">
                     <div class="title-block">
-                        <h3 class="title">My account</h3>
+                        <h3 class="title">DNA百科</h3>
                     </div>
                     <nav>
                         <ul>
-                            <li><a href="#">My account</a></li>
-                            <li><a href="#">Order History</a></li>
-                            <li><a href="#">Wish List</a></li>
-                            <li><a href="#">Newsletter</a></li>
+                            <li><a href="#what">基因检测与重大疾病预防</a></li>
+                            <li><a href="#what">基因检测与个性化用药</a></li>
+                            <li><a href="#what">基因检测与生活方式</a></li>
+                            <li><a href="#what">基因检测与临床检测</a></li>
                         </ul>
                     </nav>
                 </aside>
@@ -183,7 +183,7 @@
         <div class="container">
             <div class="row">
                 <div class="copyright col-xs-12 col-sm-3 col-md-3">
-                    Copyright © ItemBridge Inc., 2013
+                    Copyright © 上海邦禾科技 2014
                 </div>
 
                 <div class="phone col-xs-6 col-sm-3 col-md-3">
@@ -194,8 +194,8 @@
 				M11.001,12H5V2h6V12z"></path>
 			</svg>
                     </div>
-                    <strong class="title">Call Us:</strong> +1 (877) 123-45-67 <br>
-                    <strong>or</strong> +1 (777) 123-45-67
+                    <strong class="title">咨询：</strong> +1 (877) 123-45-67 <br>
+                    <strong>招商：</strong> +1 (777) 123-45-67
                 </div>
 
                 <div class="address col-xs-6 col-sm-3 col-md-3">
@@ -213,7 +213,7 @@
 			  </g>
 			</svg>
                     </div>
-                    49 Archdale, 2B Charleston 5655, Excel Tower<br> OPG Rpad, 4538FH
+                    XX区XX路XX室,上海，邮编：200000
                 </div>
 
                 <div class="col-xs-12 col-sm-3 col-md-3">

@@ -66,7 +66,7 @@
 <section id="main">
 <article class="content">
 <div class="container">
-<div class="row">
+<div class="row" id="what">
     <div class="title-box text-center col-sm-12 col-md-12">
         <h1 class="title">我们能做什么</h1>
     </div>
@@ -78,7 +78,7 @@
         {{--<p>每个人都是独一无二的天才，<strong>天骄系列基因检测</strong>，发现您的孩子深藏在基因中的天赋。当初如果早就知道自己的天赋所在，还会走那么多错误的路来尝试吗？我，不要下一代泯然众人！</p>--}}
 
 
-
+        <p><strong>天赐系列基因检测</strong>，通过基因检测技术，帮您预防疾病，改善生活习惯，更好的保养自己。</p>
         <blockquote>
             <footer>预防大于治疗</footer>
         </blockquote>
@@ -88,9 +88,10 @@
         <p>我究竟是不是必须购买商业保险？</p>
         <p>我究竟...</p>
 
-        <p><strong>天赐系列基因检测</strong>，找到基因可以告诉你的事。</p>
-        <p>这段填写最终定稿的广告语</p>
-        <p>你，拥有自己分子级生命说明书吗？</p>
+        <p>命由天定，事在人为。基因是我们无法选择与改变的，我们能做的就是了解并接受自己的基因，调整生活方式，使先天与后天相辅相成，科学提升我们的生命品质与生活体验。
+
+          基因检测即了解基因信息的手段。通过采集受检者的DNA样本，运用先进的基因芯片和测序技术，检测与疾病或性格、智力等相关的基因，获知受检者在相关方面的遗传特征。</p>
+        <p>你，拥有自己的分子级生命说明书吗？</p>
     </div>
 
     <div class="bottom-padding col-sm-6 col-md-6">
@@ -193,7 +194,7 @@
             <li><strong>就医辅助：</strong>提供个性化的体检方案、常见健康隐患的就医方案、个性化的用药方案等。</li>
             <li><strong>教育咨询：</strong>发生任何与教育相关的疑虑时，都可咨询专业老师的解决建议。</li>
         </ul>
-        <a href=""><button type="button" class="btn btn-primary">查看检测流程</button></a>
+        <a href="{{asset('process')}}"><button type="button" class="btn btn-primary">查看检测流程</button></a>
     </div>
 </div>
 
@@ -208,7 +209,7 @@
         <p>邦禾基因检测平台-生物芯片上海国家工程研究中心，代表着中国在生物芯片基因检测领域的最高科技权威。生物芯片上海国家工程研究中心由上海生命科学院、国家人类基因组南方中心、复旦大学、交通大学等股东单位组建而成，国家发改委委员会于2003年3月正式批复成立，总投资2.9亿元人民币，是我国投资规模最大的生物技术中心之一，也是我国在生物芯片领域研发的代表单位。</p>
 
         <p>中心聚集众多位博士、硕士、留学归国人员等尖端科技人员，获得国家863计划、973计划、上海市重大项目等科研资助逾6000万元。</p>
-        <a href=""><button type="button" class="btn btn-primary">查看套餐</button></a>
+        <a href="#price"><button type="button" class="btn btn-primary">查看套餐</button></a>
     </div>
 
     <div class="bottom-padding col-sm-6 col-md-6">
@@ -272,7 +273,7 @@
                     You can form the page yourself by placing any information<br>
                     you want – graphs, tables, buttons, slides, animated
                 </p>
-                <button class="btn btn-white btn-default">现在购买</button>
+                <a href="{{asset('buy')}}"><button class="btn btn-white btn-default">现在购买</button></a>
                 <br><br>
             </div>
             <div class="images-box col-sm-6 col-md-6">
@@ -414,7 +415,7 @@
     </div>
 </div>
 
-<div class="bottom-padding">
+<div class="bottom-padding" id="price">
     <div class="title-box text-center">
         <h1 class="title">天赐基因检测套餐</h1>
     </div>

@@ -16,7 +16,22 @@ Route::get('/', function()
 	return View::make('index');
 });
 
-Route::get('tianci', function()
+Route::get('process', function()
 {
-   return View::make('tianci');
+   return View::make('process');
+});
+
+Route::get('about_us', function()
+{
+    return View::make('about_us');
+});
+
+Route::get('channel', function()
+{
+    return View::make('channel');
+});
+
+Route::get('buy', function()
+{
+    return View::make('buy');
 });
