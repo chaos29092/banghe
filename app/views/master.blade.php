@@ -74,26 +74,23 @@
                                         <li class="item-primary item-bg">
                                             <a href="{{asset('/')}}">首页</a>
                                         </li>
-                                        <li class="item-primary item-bg">
-                                            <a href="{{asset('tianci')}}" target="_blank">天赐系列<span class="item-new">新</span></a>
-                                        </li>
-                                        <li class="item-primary item-bg">
-                                            <a href="#" target="_blank">天骄系列<span class="item-new">新</span></a>
-                                        </li>
+
                                         <li class="item-primary item-bg">
                                             <a href="#" target="_blank">检测流程</a>
+                                        </li>
+                                        <li class="item-primary item-bg">
+                                            <a href="#" target="_blank">关于我们</a>
                                         </li>
                                         <li class="parent item-primary item-bg">
                                             <a href="#">帮助</a>
                                             <ul class="sub">
-                                                <li><a href="bootstrap-accordions.html">关于我们</a></li>
                                                 <li><a href="bootstrap-alerts.html">渠道合作</a></li>
                                                 <li><a href="bootstrap-buttons.html">DNA百科</a></li>
                                             </ul>
                                         </li>
                                         <li class="item-danger item-bg text-danger">
                                             <a href="#"
-                                               target="_blank">现在购买！</a>
+                                               target="_blank">现在购买！<span class="item-new">快</span></a>
                                         </li>
                                     </ul>
                                 </nav>
