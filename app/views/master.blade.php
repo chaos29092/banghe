@@ -168,10 +168,10 @@
                     </div>
                     <nav>
                         <ul>
-                            <li><a href="#what">基因检测与重大疾病预防</a></li>
-                            <li><a href="#what">基因检测与个性化用药</a></li>
-                            <li><a href="#what">基因检测与生活方式</a></li>
-                            <li><a href="#what">基因检测与临床检测</a></li>
+                            <li><a href="{{asset('/')}}#what">基因检测与重大疾病预防</a></li>
+                            <li><a href="{{asset('/')}}#what">基因检测与个性化用药</a></li>
+                            <li><a href="{{asset('/')}}#what">基因检测与生活方式</a></li>
+                            <li><a href="{{asset('/')}}#what">基因检测与临床检测</a></li>
                         </ul>
                     </nav>
                 </aside>
