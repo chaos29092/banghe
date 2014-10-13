@@ -90,7 +90,7 @@
                                         </li>
                                         <li class="item-danger item-bg text-danger">
                                             <a href="#"
-                                               target="_blank">现在购买！<span class="item-new">快</span></a>
+                                               target="_blank">现在购买！<span class="item-new">抢</span></a>
                                         </li>
                                     </ul>
                                 </nav>

@@ -1,8 +1,8 @@
 @extends('master')
 
 @section('title')
-    <title>基因检测</title>
-    <meta name="keywords" content="HTML5 Template">
+    <title>天赐基因检测</title>
+    <meta name="keywords" content="天赐 基因检测 预防癌症">
     <meta name="description" content="Progressive — Responsive Multipurpose HTML Template">
     <meta name="author" content="itembridge.com">
 @stop
@@ -105,8 +105,9 @@
                 </div>
                 <div id="collapse1" class="panel-collapse collapse in">
                     <div class="panel-body">
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis eos perferendis
-                        accusamus autem nisi!
+                        <p>心脑血管疾病、肿瘤、糖尿病已经成为威胁人类健康的三大杀手，这些疾病都与先天的遗传基因有着直接关系，都是由先天遗传基因+后天生活方式和生活环境共同作用形成的。</p>
+                        <p>我国患高血压人群已超过1.6亿，糖尿病人6500万，每12秒钟就有1个中国人死于心脑血管病！中国近五年癌症患者高达750万人，每年约有160万人死于癌症。</p>
+                        <p>哈佛公共卫生学院疾病预防中心的研究表明，通过提前基因检测预知，有效改善生活方式，80%的心脏病与糖尿病，70%的中风以及50%的癌症是可以避免的！</p>
                     </div>
                 </div>
             </div>
@@ -121,9 +122,13 @@
                 </div>
                 <div id="collapse2" class="panel-collapse collapse">
                     <div class="panel-body">
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque natus quaerat voluptate?
-                        Asperiores hic dolore voluptate corporis obcaecati reiciendis sunt ipsam iste. Eligendi
-                        inventore voluptatibus quia saepe odit deserunt nam?
+                        <p>据统计，中国每年5000多万住院病人中，至少有250万人入院治疗与药物毒副作用有关，其中50万人属于严重不良反应，因此而致死的人数每年约有19．2万人，比传染病致死的人数高出数倍。</p>
+                        <p>据统计资料显示，我国死于药物不良反应的每年约有20万人。仅上海市每年就有1万人因吃错药而死亡。</p>
+                        <p>2005年春晚21位无声的天使表演的《千手观音》震撼了中国，也震惊了世界。这21位无声的天使中仅只有三人是先天性耳聋，18人都是由于后天药物的毒副作用而造成的终身性耳聋。</p>
+                        <p>我国100万聋哑儿童中约50%是使用抗生素所致！如果孩子携带药物性耳聋基因，哪怕只是一次使用，在正常剂量内就可以造成孩子再也听不到声音！</p>
+                        <p>千人一药的用药模式对人体的危害是相当大的，不仅产生药物毒副作用，损伤内脏器官；甚至致残致亡。
+                           硝酸甘油是抗心绞痛的首选药物。然而该药物治疗心绞痛的个体差异很大，对有些人毫无效果。通过基因检测，如果心绞痛患者该基因缺陷，那么硝酸甘油治疗对他可能无效。</p>
+                           <p><strong>目前通过基因筛查已经能够对部分肿瘤用药、化放疗用药、心脑血管疾病用药及抗生素用药等实行个性化用药检测。</strong></p>
                     </div>
                 </div>
             </div>
@@ -138,14 +143,12 @@
                 </div>
                 <div id="collapse3" class="panel-collapse collapse">
                     <div class="panel-body">
-                        <img src="img/content/animations.png" class="alignleft" width="100" height="62" alt="">
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores ipsa esse obcaecati
-                        repudiandae veniam amet modi recusandae optio earum sequi accusantium culpa vitae iste sit
-                        commodi eaque voluptatem officia quam. Molestiae nobis quidem atque explicabo eum facilis
-                        libero porro in fugiat pariatur molestias maiores voluptates rerum ipsa architecto quae
-                        assumenda harum fuga modi accusantium nihil dolor consequatur totam commodi quam quas neque
-                        dolorem veritatis unde adipisci ad illo excepturi quia facere reprehenderit non alias cum
-                        minima labore quo repudiandae perferendis?
+                        <p><strong>通用的未必正确  合理的未必合适  有效的未必益</strong></p>
+                        <p>多瓜果蔬菜——适合你吗？</p>
+                        <p>多鱼少肉——会不会害了你？</p>
+                        <p>提高免疫力—— 一定会让你远离疾病吗？</p>
+                        <p>基因检测避免人们盲目补充保健品：</p>
+                        <p>随着生活水平的提高，人们越来越注重健康，保健品也成了注重生活品质人群的必须品，但保健品并不是可以盲目补充的。例如，带有肝硬化疾病易感基因的人群，是不可以长期补充铁质类的保健品，因为铁质会诱发肝硬化疾病的发生；带有红斑狼疮的疾病易感基因人群，不可以大量补充蛋白质……如果不了解身体的根本，长期盲目服用保健品，后果难以估计……</p>
                     </div>
                 </div>
             </div>
@@ -154,20 +157,14 @@
                 <div class="panel-heading">
                     <div class="panel-title">
                         <a data-toggle="collapse" data-parent="#accordion" href="#collapse4">
-                            基因检测的重要性
+                            基因检测与临床检测
                         </a>
                     </div>
                 </div>
                 <div id="collapse4" class="panel-collapse collapse">
                     <div class="panel-body">
-                        <img src="img/content/animations.png" class="alignleft" width="100" height="62" alt="">
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores ipsa esse obcaecati
-                        repudiandae veniam amet modi recusandae optio earum sequi accusantium culpa vitae iste sit
-                        commodi eaque voluptatem officia quam. Molestiae nobis quidem atque explicabo eum facilis
-                        libero porro in fugiat pariatur molestias maiores voluptates rerum ipsa architecto quae
-                        assumenda harum fuga modi accusantium nihil dolor consequatur totam commodi quam quas neque
-                        dolorem veritatis unde adipisci ad illo excepturi quia facere reprehenderit non alias cum
-                        minima labore quo repudiandae perferendis?
+                       <p>基因检测可以有效避免临床误诊：</p>
+                       <p>联合国世界卫生组织2000年做了一项调查，发现全球误诊率在28%-44%，也就是说，平均3-4个人去看病就有一个人遭遇到误诊！即使是很有钱的人或者本身就是医学专家也无法避免。临床医学难免会有些误诊的发生，如我国拥有35亿资产的著名企业家王均瑶38岁死于直肠癌。直肠癌是所有癌症里最容易医治的，换个直肠只需要几十万。可悲的是上帝跟他开了一个很大的玩笑，他的直肠癌前期一直当作胃炎医治了8年，因而错过了最佳治疗期，导致悲剧的发生。再比如红斑狼疮的早期症状为感冒、胃痛等，如果不做基因检测，很容易当作感冒、胃病医治……</p>
                     </div>
                 </div>
             </div>
@@ -185,10 +182,18 @@
     </div>
 
     <div class="bottom-padding col-sm-6 col-md-6">
-        <p>天赐基因检测简介</p>
+        <p>我们的服务内容：</p>
 
-        <p>这里写具体原理和一些故事</p>
-        <a href=""><button type="button" class="btn btn-primary">检测流程</button></a>
+        <p>采集基因样本，进行基因筛查，出具基因报告，专业解读报告，并提供专家指导服务。</p>
+        <p>受检者收到基因报告后，由专业老师为受检者提供一对一的报告讲解：让受检者更清晰的了解自己的遗传体质特征；不同的年龄段健康或教育的重点在哪里；具体应怎样执行，如饮食怎样调理，怎样加强保健，怎样教育宝宝等。具体内容视受检者所选筛查项而定。</p>
+        <p>收到基因报告后，由检测机构为受检者提供为期一年的免费服务，具体内容视筛查项目而定。包括：</p>
+        <ul>
+            <li><strong>定期饮食调理：</strong>每三个月1次，为受检者提供营养评估及饮食调整方案。</li>
+            <li><strong>24小时紧急咨询：</strong>可随时拨打专业老师的电话，咨询相关问题。</li>
+            <li><strong>就医辅助：</strong>提供个性化的体检方案、常见健康隐患的就医方案、个性化的用药方案等。</li>
+            <li><strong>教育咨询：</strong>发生任何与教育相关的疑虑时，都可咨询专业老师的解决建议。</li>
+        </ul>
+        <a href=""><button type="button" class="btn btn-primary">查看检测流程</button></a>
     </div>
 </div>
 
@@ -219,35 +224,35 @@
     </div>
 
     <div class="big-services-box col-sm-4 col-md-4">
-        <a href="#">
+
             <div class="big-icon bg" data-appear-animation="fadeInUp"><i class="fa fa-plus"></i></div>
             <h4 class="title">基因检测</h4>
 
             <div class="text-small">最先进的基因检测技术，帮助您得到自己的分子级生命说明书
             </div>
-        </a>
+
     </div>
     <!-- .services-box-two -->
 
     <div class="big-services-box col-sm-4 col-md-4">
-        <a href="#">
+
             <div class="big-icon bg" data-appear-animation="fadeInUp"><i class="fa fa-book"></i></div>
             <h4 class="title">分析报告</h4>
 
             <div class="text-small">根据您的基因检测结果，由专家分析，专属于您的身体分析报告，包含系统化的养生，饮食，运动，治疗建议等
             </div>
-        </a>
+
     </div>
     <!-- .services-box-two -->
 
     <div class="big-services-box col-sm-4 col-md-4">
-        <a href="#">
+
             <div class="big-icon bg" data-appear-animation="fadeInUp"><i class="fa fa-users"></i></div>
             <h4 class="title">后期服务</h4>
 
             <div class="text-small">终生免费专家咨询，强大的社区，让您的人生之路更加健康幸福
             </div>
-        </a>
+
     </div>
     <!-- .services-box-two -->
 </div>
@@ -260,7 +265,7 @@
         <div class="row">
             <div class="content-box white col-sm-6 col-md-6">
                 <div>与邦禾近距离接触</div>
-                <h2 class="title light">我们为什么需要<strong>邦禾基因检测</strong></h2>
+                <h2 class="title light"><strong>邦禾基因检测</strong>视频</h2>
 
                 <p class="description">
                     We added more than 80 items to the standard page design.<br>
@@ -413,10 +418,8 @@
     <div class="title-box text-center">
         <h1 class="title">天赐基因检测套餐</h1>
     </div>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio quaerat nemo nam quibusdam doloribus quo
-        minima iure sequi vitae optio consequatur necessitatibus fugit voluptatem voluptas sapiente quis cupiditate.
-        Esse minus sequi molestias qui quibusdam voluptatem minima neque laborum architecto facere.</p>
-    <br><br>
+    <p>我们有多种灵活的套餐可供选择，总有一种适合您</p>
+    <br>
 
     <div class="pricings row">
         <div class="col-sm-6 col-md-4 col-lg-3">
@@ -571,15 +574,31 @@
 </div>
 </div>
 
-<div class="full-width-box bottom-padding">
+<div class="full-width-box bottom-padding" id="tem">
     <div class="fwb-bg background-green"></div>
 
     <div class="container">
         <div class="title-box text-center title-white">
-            <h1 class="title">名人留言</h1>
+            <h1 class="title">他们说</h1>
+        </div>
+        <div>
+        <blockquote>
+          <p>人类基因组序列是全人类的共同财富，应该用来为全人类造福。</p>
+          <footer>习近平</footer>
+        </blockquote>
+        <blockquote>
+          <p>未来十二年，生物芯片技术将为每个人的疾病预防指点迷津。</p>
+          <footer>奥巴马</footer>
+        </blockquote>
+        <blockquote>
+          <p>基因技术的发展，不仅为相关医学研究打下了坚实的基础，而且促进了医学模式的改变，为解决长期困扰人类的很多重大疾病，如癌症、糖尿病、神经和精神疾病等的早期诊断、早期治疗开辟了新途径。
+             十三亿人口的健康不能光靠看病吃药解决，加强预防和保护环境是根本，基因检测是预防疾病的重要手段。</p>
+          <footer>卫生部部长 陈竺</footer>
+        </blockquote>
         </div>
     </div>
 </div>
+
 <!-- .full-width-box -->
 
 <div class="container">
@@ -614,4 +633,5 @@
     </div>
 </article>
 </section>
+
 @stop
