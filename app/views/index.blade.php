@@ -63,6 +63,7 @@
     </a>
 </div>
 
+
 <section id="main">
 <article class="content">
 <div class="container">
@@ -94,83 +95,102 @@
         <p>你，拥有自己的分子级生命说明书吗？</p>
     </div>
 
-    <div class="bottom-padding col-sm-6 col-md-6">
-        <div class="panel-group one-open" id="accordion">
-            <div class="panel panel-default panel-bg active" data-appear-animation="fadeInRightBig">
-                <div class="panel-heading">
-                    <div class="panel-title">
-                        <a data-toggle="collapse" data-parent="#accordion" href="#collapse1">
-                            基因检测与重大疾病预防
-                        </a>
-                    </div>
-                </div>
-                <div id="collapse1" class="panel-collapse collapse in">
-                    <div class="panel-body">
-                        <p>心脑血管疾病、肿瘤、糖尿病已经成为威胁人类健康的三大杀手，这些疾病都与先天的遗传基因有着直接关系，都是由先天遗传基因+后天生活方式和生活环境共同作用形成的。</p>
-                        <p>我国患高血压人群已超过1.6亿，糖尿病人6500万，每12秒钟就有1个中国人死于心脑血管病！中国近五年癌症患者高达750万人，每年约有160万人死于癌症。</p>
-                        <p>哈佛公共卫生学院疾病预防中心的研究表明，通过提前基因检测预知，有效改善生活方式，80%的心脏病与糖尿病，70%的中风以及50%的癌症是可以避免的！</p>
-                    </div>
-                </div>
-            </div>
-
-            <div class="panel panel-default panel-bg" data-appear-animation="fadeInRightBig">
-                <div class="panel-heading">
-                    <div class="panel-title">
-                        <a data-toggle="collapse" data-parent="#accordion" href="#collapse2">
-                            基因检测与个性化用药
-                        </a>
-                    </div>
-                </div>
-                <div id="collapse2" class="panel-collapse collapse">
-                    <div class="panel-body">
-                        <p>据统计，中国每年5000多万住院病人中，至少有250万人入院治疗与药物毒副作用有关，其中50万人属于严重不良反应，因此而致死的人数每年约有19．2万人，比传染病致死的人数高出数倍。</p>
-                        <p>据统计资料显示，我国死于药物不良反应的每年约有20万人。仅上海市每年就有1万人因吃错药而死亡。</p>
-                        <p>2005年春晚21位无声的天使表演的《千手观音》震撼了中国，也震惊了世界。这21位无声的天使中仅只有三人是先天性耳聋，18人都是由于后天药物的毒副作用而造成的终身性耳聋。</p>
-                        <p>我国100万聋哑儿童中约50%是使用抗生素所致！如果孩子携带药物性耳聋基因，哪怕只是一次使用，在正常剂量内就可以造成孩子再也听不到声音！</p>
-                        <p>千人一药的用药模式对人体的危害是相当大的，不仅产生药物毒副作用，损伤内脏器官；甚至致残致亡。
-                           硝酸甘油是抗心绞痛的首选药物。然而该药物治疗心绞痛的个体差异很大，对有些人毫无效果。通过基因检测，如果心绞痛患者该基因缺陷，那么硝酸甘油治疗对他可能无效。</p>
-                           <p><strong>目前通过基因筛查已经能够对部分肿瘤用药、化放疗用药、心脑血管疾病用药及抗生素用药等实行个性化用药检测。</strong></p>
-                    </div>
-                </div>
-            </div>
-
-            <div class="panel panel-default panel-bg" data-appear-animation="fadeInRightBig">
-                <div class="panel-heading">
-                    <div class="panel-title">
-                        <a data-toggle="collapse" data-parent="#accordion" href="#collapse3">
-                            基因检测与生活方式
-                        </a>
-                    </div>
-                </div>
-                <div id="collapse3" class="panel-collapse collapse">
-                    <div class="panel-body">
-                        <p><strong>通用的未必正确  合理的未必合适  有效的未必益</strong></p>
-                        <p>多瓜果蔬菜——适合你吗？</p>
-                        <p>多鱼少肉——会不会害了你？</p>
-                        <p>提高免疫力—— 一定会让你远离疾病吗？</p>
-                        <p>基因检测避免人们盲目补充保健品：</p>
-                        <p>随着生活水平的提高，人们越来越注重健康，保健品也成了注重生活品质人群的必须品，但保健品并不是可以盲目补充的。例如，带有肝硬化疾病易感基因的人群，是不可以长期补充铁质类的保健品，因为铁质会诱发肝硬化疾病的发生；带有红斑狼疮的疾病易感基因人群，不可以大量补充蛋白质……如果不了解身体的根本，长期盲目服用保健品，后果难以估计……</p>
-                    </div>
-                </div>
-            </div>
-
-            <div class="panel panel-default panel-bg" data-appear-animation="fadeInRightBig">
-                <div class="panel-heading">
-                    <div class="panel-title">
-                        <a data-toggle="collapse" data-parent="#accordion" href="#collapse4">
-                            基因检测与临床检测
-                        </a>
-                    </div>
-                </div>
-                <div id="collapse4" class="panel-collapse collapse">
-                    <div class="panel-body">
-                       <p>基因检测可以有效避免临床误诊：</p>
-                       <p>联合国世界卫生组织2000年做了一项调查，发现全球误诊率在28%-44%，也就是说，平均3-4个人去看病就有一个人遭遇到误诊！即使是很有钱的人或者本身就是医学专家也无法避免。临床医学难免会有些误诊的发生，如我国拥有35亿资产的著名企业家王均瑶38岁死于直肠癌。直肠癌是所有癌症里最容易医治的，换个直肠只需要几十万。可悲的是上帝跟他开了一个很大的玩笑，他的直肠癌前期一直当作胃炎医治了8年，因而错过了最佳治疗期，导致悲剧的发生。再比如红斑狼疮的早期症状为感冒、胃痛等，如果不做基因检测，很容易当作感冒、胃病医治……</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+    <div class="col-sm-6 col-md-6">
+        <div class="panel-group" id="accordion3">
+        			  <div class="panel panel-default">
+        				<div class="panel-heading">
+        				  <h4 class="panel-title">
+        					<a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" class="collapsed">
+        					  Collapsible Group Item #1
+        					</a>
+        				  </h4>
+        				</div>
+        				<div id="collapseOne" class="panel-collapse collapse" style="height: 0px;">
+        				  <div class="panel-body">
+        					Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+        				  </div>
+        				</div>
+        			  </div>
+        			  <div class="panel panel-default">
+        				<div class="panel-heading">
+        				  <h4 class="panel-title">
+        					<a data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" class="collapsed">
+        					  Collapsible Group Item #2
+        					</a>
+        				  </h4>
+        				</div>
+        				<div id="collapseTwo" class="panel-collapse collapse" style="height: 0px;">
+        				  <div class="panel-body">
+        					Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+        				  </div>
+        				</div>
+        			  </div>
+        			  <div class="panel panel-default">
+        				<div class="panel-heading">
+        				  <h4 class="panel-title">
+        					<a data-toggle="collapse" data-parent="#accordion" href="#collapseThree" class="collapsed">
+        					  Collapsible Group Item #3
+        					</a>
+        				  </h4>
+        				</div>
+        				<div id="collapseThree" class="panel-collapse collapse" style="height: 0px;">
+        				  <div class="panel-body">
+        					Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+        				  </div>
+        				</div>
+        			  </div>
+        			</div>
     </div>
+</div>
+
+<div class="row">
+
+            <div class="panel-group" id="accordion">
+            			  <div class="panel panel-default">
+            				<div class="panel-heading">
+            				  <h4 class="panel-title">
+            					<a data-toggle="collapse" data-parent="#accordion" href="#collapse1" class="collapsed">
+            					  套餐一
+            					</a>
+            				  </h4>
+            				</div>
+            				<div id="collapse1" class="panel-collapse collapse" style="height: 0px;">
+            				  <div class="panel-body">
+            					Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+            					<button type="button" class="btn btn-default">Default</button>
+            				  </div>
+            				</div>
+            			  </div>
+            			  <div class="panel panel-default">
+            				<div class="panel-heading">
+            				  <h4 class="panel-title">
+            					<a data-toggle="collapse" data-parent="#accordion" href="#collapse2" class="collapsed">
+            					  套餐二
+            					</a>
+            				  </h4>
+            				</div>
+            				<div id="collapse2" class="panel-collapse collapse" style="height: 0px;">
+            				  <div class="panel-body">
+            					Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+            				  </div>
+            				</div>
+            			  </div>
+            			  <div class="panel panel-default">
+            				<div class="panel-heading">
+            				  <h4 class="panel-title">
+            					<a data-toggle="collapse" data-parent="#accordion" href="#collapse3" class="collapsed">
+            					  套餐三
+            					</a>
+            				  </h4>
+            				</div>
+            				<div id="collapse3" class="panel-collapse collapse" style="height: 0px;">
+            				  <div class="panel-body">
+            					Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+            				  </div>
+            				</div>
+            			  </div>
+            			</div>
+
 </div>
 
 <div class="row">
