@@ -230,5 +230,6 @@
 
 <script src="http://cdn.bootcss.com/jquery/1.11.0/jquery.min.js"></script>
 <script src="{{asset('assets/js/bootstrap.min.js')}}"></script>
+<script src="{{asset('assets/js/main.js')}}"></script>
 </body>
 </html>
