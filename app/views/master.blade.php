@@ -54,7 +54,7 @@
                     <div class="right-box-wrapper">
                         <div class="header-icons">
                             <div>
-                                <p>热线电话： 400-xxxxxxxxx</p>
+                                <p>The largest DNA test service in China</p>
                             </div>
                             <!-- .search-header-->
                         </div>

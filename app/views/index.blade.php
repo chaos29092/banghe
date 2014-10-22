@@ -20,7 +20,7 @@
     </div>
 
     <div class="bottom-padding col-sm-6 col-md-6">
-        <h4>在左侧的家族图谱中，有多少人会有患病概率？</h4>
+        <h4>该是什么就是什么</h4>
         <p>答案： <strong>6个</strong></p>
 
         <p>采集基因样本，进行基因筛查，出具基因报告，专业解读报告，并提供专家指导服务。</p>
@@ -31,100 +31,96 @@
         <a href="{{asset('process')}}"><button type="button" class="btn btn-primary">查看检测流程</button></a>
     </div>
 </div>
+</div>
 
-<div class="row" id="what">
-    <div class="bottom-padding col-sm-12 col-md-12">
-        <div class="panel-group one-open" id="accordion">
-            <div class="panel panel-default panel-bg active" data-appear-animation="fadeInRightBig">
-                <div class="panel-heading">
-                    <div class="panel-title">
-                        <a data-toggle="collapse" data-parent="#accordion" href="#collapse1">
-                            体验套餐 —————————— <span>880元</span>
-                        </a>
-                    </div>
-                </div>
-                <div id="collapse1" class="panel-collapse collapse in">
-                    <div class="panel-body">
-                        <p class="col-md-6">男性：肝癌，胃癌，结肠癌，肺癌，前列腺癌，膀胱癌</p>
-                        <p class="col-md-6">女性: 乳腺癌，宫颈癌，卵巢癌，肝癌，胃癌，结肠癌，肺癌，膀胱癌</p>
-                        <a href="{{asset('process')}}"><button type="button" class="btn btn-primary">立即购买</button></a>
-                    </div>
-                </div>
-            </div>
+<div class="container" id="duyi">
+<div class="row" >
+    <div class="bottom-padding col-sm-6 col-md-6">
+        <h4>基因的独一无二性</h4>
+        <p>答案： <strong>6个</strong></p>
 
-            <div class="panel panel-default panel-bg" data-appear-animation="fadeInRightBig">
-                <div class="panel-heading">
-                    <div class="panel-title">
-                        <a data-toggle="collapse" data-parent="#accordion" href="#collapse2">
-                            白银套餐 —————————— <span>2280元</span>
-                        </a>
-                    </div>
-                </div>
-                <div id="collapse2" class="panel-collapse collapse">
-                    <div class="panel-body">
-                        <p class="col-md-6">男性：肝癌，胃癌，结肠癌，肺癌，前列腺癌，膀胱癌</p>
-                        <p class="col-md-6">女性：乳腺癌，宫颈癌，卵巢癌，肝癌，胃癌，结肠癌，肺癌，膀胱癌</p>
-                        <p>加上心血管套餐：急性心肌梗塞；高血压；高血脂；脑中风；老年性痴呆；冠心病</p>
-                        <a href="{{asset('process')}}"><button type="button" class="btn btn-primary">立即购买</button></a>
+        <p>采集基因样本，进行基因筛查，出具基因报告，专业解读报告，并提供专家指导服务。</p>
+        <p>受检者收到基因报告后，由专业老师为受检者提供一对一的报告讲解：让受检者更清晰的了解自己的遗传体质特征；不同的年龄段健康或教育的重点在哪里；具体应怎样执行，如饮食怎样调理，怎样加强保健，怎样教育宝宝等。具体内容视受检者所选筛查项而定。</p>
+        <h4>广告词</h4>
+        <p>收到基因报告后，由检测机构为受检者提供为期一年的免费服务，具体内容视筛查项目而定。包括：</p>
 
-                    </div>
-                </div>
-            </div>
+        <a href="{{asset('process')}}"><button type="button" class="btn btn-primary">查看检测流程</button></a>
+    </div>
 
-            <div class="panel panel-default panel-bg" data-appear-animation="fadeInRightBig">
-                <div class="panel-heading">
-                    <div class="panel-title">
-                        <a data-toggle="collapse" data-parent="#accordion" href="#collapse3">
-                            黄金套餐 —————————— <span>3680元</span>
-                        </a>
-                    </div>
-                </div>
-                <div id="collapse3" class="panel-collapse collapse">
-                    <div class="panel-body">
-                        <div class="col-md-6">
-                            <p>男性：</p>
-                            <ul>
-                                <li>急性心肌梗塞、高血压、高血脂、脑中风、老年性痴呆、冠心病</li>
-                                <li>肝癌、胃癌、结肠癌、肺癌、前列腺癌、膀胱癌</li>
-                                <li>糖尿病、成人肥胖体质、肝脏药物代谢功能</li>
-                            </ul>
-                        </div>
-                        <div class="col-md-6">
-                            <p>女性：</p>
-                            <ul>
-                                <li>急性心肌梗塞、高血压、高血脂、脑中风、老年性痴呆、冠心病</li>
-                                <li>乳腺癌、肝癌、胃癌、结肠癌、宫颈癌、卵巢癌、肺癌、膀胱癌</li>
-                                <li>糖尿病、成人肥胖体质、肝脏药物代谢功能</li>
-                            </ul>
-                        </div>
-                        <a href="{{asset('process')}}"><button type="button" class="btn btn-primary">立即购买</button></a>
-                    </div>
-                </div>
-            </div>
+    <div class="bottom-padding col-sm-6 col-md-6">
+            <img src="img/tianci.jpg" class="img-responsive img-rounded center-block" alt=""/>
+    </div>
+</div>
+</div>
 
-            <div class="panel panel-default panel-bg" data-appear-animation="fadeInRightBig">
-                <div class="panel-heading">
-                    <div class="panel-title">
-                        <a data-toggle="collapse" data-parent="#accordion" href="#collapse4">
-                            铂金套餐 —————————— <span>12800元</span>
-                        </a>
-                    </div>
-                </div>
-                <div id="collapse4" class="panel-collapse collapse">
-                    <div class="panel-body">
-                       <p>常见疾病易感基因检测	86种常见病（不包含肿瘤）</p>
-                       <p>肿瘤易感基因检测	102种肿瘤</p>
-                       <a href="{{asset('process')}}"><button type="button" class="btn btn-primary">立即购买</button></a>
-                    </div>
-                </div>
-            </div>
+<div class="full-width-box bottom-padding" id="tem">
+    <div class="fwb-bg background-green"></div>
+
+    <div class="container">
+        <div class="title-box text-center title-white">
+            <h1 class="title">客户眼中的邦禾</h1>
+        </div>
+        <div>
+        <blockquote>
+          <p>应该是很准确，我在做之前也在网上查了好多资料，准确率有99.99%我才敢试试，还没拿到结果，希望不会失望吧！</p>
+          <footer>用户1</footer>
+        </blockquote>
+        <blockquote>
+          <p>前天拿到的结果，给妈妈测的，很厚的一本报告，看起来好高大上，我需要仔细研究研究。</p>
+          <footer>用户2</footer>
+        </blockquote>
+        <blockquote>
+          <p>基因检测很久之前就听说过，一直没敢试，就是怕不准，我是朋友介绍的，说邦禾的服务啊，技术啊什么的都是国内最先进的，看到报纸，感觉价格比其他公司便宜好多，抱着试试的心态给老公测了测，现在在等结果！</p>
+          <footer>用户3</footer>
+        </blockquote>
         </div>
     </div>
 </div>
 
+<div class="container">
+
+<div class="row">
+    <div class="bottom-padding col-sm-6 col-md-6">
+        <h4>安全与隐私</h4>
+        <p>答案： <strong>6个</strong></p>
+
+        <p>采集基因样本，进行基因筛查，出具基因报告，专业解读报告，并提供专家指导服务。</p>
+        <p>受检者收到基因报告后，由专业老师为受检者提供一对一的报告讲解：让受检者更清晰的了解自己的遗传体质特征；不同的年龄段健康或教育的重点在哪里；具体应怎样执行，如饮食怎样调理，怎样加强保健，怎样教育宝宝等。具体内容视受检者所选筛查项而定。</p>
+        <h4>广告词</h4>
+        <p>收到基因报告后，由检测机构为受检者提供为期一年的免费服务，具体内容视筛查项目而定。包括：</p>
+
+        <a href="{{asset('process')}}"><button type="button" class="btn btn-primary">查看检测流程</button></a>
+    </div>
+
+    <div class="bottom-padding col-sm-6 col-md-6">
+            <img src="img/tianci.jpg" class="img-responsive img-rounded center-block" alt=""/>
+    </div>
+</div>
+
+
+<div class="row">
+    <div class="bottom-padding col-sm-6 col-md-6">
+            <img src="img/tianci.jpg" class="img-responsive img-rounded center-block" alt=""/>
+    </div>
+
+    <div class="bottom-padding col-sm-6 col-md-6">
+        <h4>我们的技术与标准</h4>
+        <p>答案： <strong>6个</strong></p>
+
+        <p>采集基因样本，进行基因筛查，出具基因报告，专业解读报告，并提供专家指导服务。</p>
+        <p>受检者收到基因报告后，由专业老师为受检者提供一对一的报告讲解：让受检者更清晰的了解自己的遗传体质特征；不同的年龄段健康或教育的重点在哪里；具体应怎样执行，如饮食怎样调理，怎样加强保健，怎样教育宝宝等。具体内容视受检者所选筛查项而定。</p>
+        <h4>广告词</h4>
+        <p>收到基因报告后，由检测机构为受检者提供为期一年的免费服务，具体内容视筛查项目而定。包括：</p>
+
+        <a href="{{asset('process')}}"><button type="button" class="btn btn-primary">查看检测流程</button></a>
+    </div>
+
+
+</div>
+
 <div class="row">
     <div class="title-box text-center col-sm-12 col-md-12">
-        <h1 class="title">关于我们</h1>
+        <h1 class="title">新闻，行业新闻，公司新闻</h1>
     </div>
 
     <div class="bottom-padding col-sm-12 col-md-12">
@@ -138,36 +134,10 @@
 
 </div>
 
-<div class="container">
-    <div class="row">
-        <div class="title-box text-center col-sm-12 col-md-12">
-            <h1 class="title">联系我们</h1>
-        </div>
+<button type="button" class="btn btn-danger btn-lg center-block">现在订购</button>
 
-        <div class="map-box col-sm-12 col-md-12">
-            <div class=" col-sm-6 col-md-6">
-                <address>
-                    <div class="title">Address</div>
-                    49 Archdale, 2B Charleston, New York City, USA
-                </address>
-                <div class="row">
-                    <address class="col-sm-6 col-md-6">
-                        <div class="title">Phones</div>
-                        <div>Support: +777 (100) 1234</div>
-                        <div>Sales manager: +777 (100) 4321</div>
-                        <div>Director: +777 (100) 1243</div>
-                    </address>
-                    <address class="col-sm-6 col-md-6">
-                        <div class="title">Email Addresses</div>
-                        <div>Support: <a href="mailto:support@example.com">support@example.com</a></div>
-                        <div>Sales manager: <a href="mailto:manager@example.com">manager@example.com</a></div>
-                        <div>Director: <a href="mailto:chief@example.com">chief@example.com</a></div>
-                    </address>
-                </div>
-            </div>
 
-        </div>
-    </div>
+</div>
 </article>
 </section>
 
