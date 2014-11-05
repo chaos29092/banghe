@@ -7,7 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
     <!-- Favicon -->
-    <link rel="shortcut icon" href="img/favicon.ico">
+    <link rel="shortcut icon" href="{{asset('img/favicon.ico')}}">
 
     <!-- Plagins CSS -->
     <link rel="stylesheet" href="{{asset('assets/css/font-awesome.min.css')}}">
@@ -44,7 +44,7 @@
                 <div class="col-xs-6 col-md-2 col-lg-3 logo-box">
                     <div class="logo">
                         <a href="index.html">
-                            <img src="img/logo.svg" class="logo-img" alt="">
+                            <img src="img/logo.jpg" class="logo-img" alt="">
                         </a>
                     </div>
                 </div>
