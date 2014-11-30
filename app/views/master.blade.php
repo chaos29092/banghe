@@ -7,7 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
     <!-- Favicon -->
-    <link rel="shortcut icon" href="img/favicon.ico">
+    <link rel="shortcut icon" href="{{asset('img/favicon.ico')}}">
 
     <!-- Plagins CSS -->
     <link rel="stylesheet" href="{{asset('assets/css/font-awesome.min.css')}}">
@@ -44,7 +44,7 @@
                 <div class="col-xs-6 col-md-2 col-lg-3 logo-box">
                     <div class="logo">
                         <a href="index.html">
-                            <img src="img/logo.svg" class="logo-img" alt="">
+                            <img src="img/logo.jpg" class="logo-img" alt="">
                         </a>
                     </div>
                 </div>
@@ -54,7 +54,7 @@
                     <div class="right-box-wrapper">
                         <div class="header-icons">
                             <div>
-                                <p>热线电话： 400-xxxxxxxxx</p>
+                                <p>The largest DNA test service in China</p>
                             </div>
                             <!-- .search-header-->
                         </div>
@@ -230,5 +230,6 @@
 
 <script src="http://cdn.bootcss.com/jquery/1.11.0/jquery.min.js"></script>
 <script src="{{asset('assets/js/bootstrap.min.js')}}"></script>
+<script src="{{asset('assets/js/main.js')}}"></script>
 </body>
 </html>
