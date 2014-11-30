@@ -145,7 +145,6 @@ a.no-border:hover,
 h1, h2, h3, h4, h5, h6 {
   font-weight: bold;
   line-height: 1.3;
-  margin: 0 0 22px;
   text-rendering: optimizelegibility;
 }
 .light {
@@ -2755,7 +2754,7 @@ blockquote small {
   margin: 0 auto;
 }
 .bottom-padding {
-  margin-bottom: 80px;
+  /*margin-bottom: 40px;*/
 }
 .bottom-padding-mini {
   margin-bottom: 40px;
@@ -11306,5 +11305,12 @@ a.big-icon:hover {
 
 #duyi {
     background-color: #f0f0f0;
-    border-bottom: 30px solid #f0f0f0;
+}
+
+h4 {
+    padding-top: 28px;
+}
+
+#tem blockquote a {
+    color: #ffffff;
 }
