@@ -21,6 +21,11 @@ Route::get('process', function()
    return View::make('process');
 });
 
+Route::get('privacy', function()
+{
+    return View::make('privacy');
+});
+
 Route::get('about_us', function()
 {
     return View::make('about_us');
@@ -34,4 +39,9 @@ Route::get('channel', function()
 Route::get('buy', function()
 {
     return View::make('buy');
+});
+
+Route::get('new_1', function()
+{
+    return View::make('new_1');
 });

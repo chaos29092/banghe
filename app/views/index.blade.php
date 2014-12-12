@@ -51,7 +51,7 @@
 
 <div class="row">
     <div class="bottom-padding col-sm-6 col-md-6">
-        <h4>隐私与安全</h4>
+        <a href="{{url('privacy')}}" target="_blank"><h4>隐私与安全</h4></a>
 
         <p class="lead">我们非常重视您的隐私，邦禾生物承诺不向任何人或组织透露用户个人信息，除非获得当事人授权或根据国家相关法律要求，为此邦禾生物特别制定 <strong>《隐私权和安全性声明》</strong>。</p>
 
@@ -67,11 +67,11 @@
     <div class="container">
         <div class="row" >
             <div class="bottom-padding col-sm-6 col-md-6">
-                    <img src="img/jishu.jpg" class="img-responsive img-rounded center-block" alt=""/>
+                    <img src="{{asset('img/liucheng.jpg')}}" class="img-responsive img-rounded center-block" alt=""/>
             </div>
 
             <div class="bottom-padding col-sm-6 col-md-6">
-                <h4>我们的技术标准</h4>
+                <a href="{{url('process')}}"><h4>我们的检测流程</h4></a>
 
             </div>
 
@@ -89,7 +89,7 @@
         </div>
         <div>
         <blockquote>
-          <a href=""><p>游走在疏堵间的基因测序</p></a>
+          <a href="{{url('new_1')}}"><p>游走在疏堵间的基因测序</p></a>
           <footer>2014.11.26</footer>
         </blockquote>
         <blockquote>

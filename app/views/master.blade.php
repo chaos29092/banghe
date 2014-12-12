@@ -54,7 +54,7 @@
                     <div class="right-box-wrapper">
                         <div class="header-icons">
                             <div>
-                                <p>The largest DNA test service in China</p>
+                                <p>DNA技术应用普及者</p>
                             </div>
                             <!-- .search-header-->
                         </div>
@@ -72,24 +72,27 @@
                                 <nav class="collapse collapsing navbar-collapse">
                                     <ul class="nav navbar-nav navbar-center">
                                         <li class="item-primary item-bg">
-                                            <a href="{{asset('/')}}">首页</a>
+                                            <a href="{{url('/')}}">首页</a>
                                         </li>
 
                                         <li class="item-primary item-bg">
-                                            <a href="{{asset('process')}}">检测流程</a>
+                                            <a href="{{url('process')}}">检测流程</a>
                                         </li>
                                         <li class="item-primary item-bg">
-                                            <a href="{{asset('about_us')}}">关于我们</a>
+                                            <a href="{{url('privacy')}}">隐私与安全</a>
+                                        </li>
+                                        <li class="item-primary item-bg">
+                                            <a href="{{url('about_us')}}">关于我们</a>
                                         </li>
                                         <li class="parent item-primary item-bg">
                                             <a href="#">帮助</a>
                                             <ul class="sub">
-                                                <li><a href="{{asset('channel')}}">渠道合作</a></li>
-                                                <li><a href="bootstrap-buttons.html">DNA百科</a></li>
+                                                <li><a href="{{url('channel')}}">渠道合作</a></li>
+                                                <li><a href="#">DNA百科</a></li>
                                             </ul>
                                         </li>
                                         <li class="item-danger item-bg text-danger">
-                                            <a href="{{asset('buy')}}"
+                                            <a href="{{url('buy')}}"
                                                target="_blank">如何购买！<span class="item-new">抢</span></a>
                                         </li>
                                     </ul>
@@ -134,10 +137,10 @@
 
                 <aside class="col-xs-12 col-sm-6 col-md-3 widget newsletter">
                     <div class="title-block">
-                        <h3 class="title">合作伙伴</h3>
+                        <h3 class="title">站内搜索</h3>
                     </div>
                     <div>
-                        <p>此处列一些相关资源站</p>
+                        <p></p>
 
                         <div class="clearfix"></div>
                         <form>

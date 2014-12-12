@@ -1852,7 +1852,6 @@ blockquote.pull-right {
 }
 blockquote p {
   font-family: Georgia, 'Times New Roman', Times, serif;
-  font-style: italic;
   font-size: 16px;
   line-height: 1.625;
   margin-bottom: 0;
@@ -3653,7 +3652,7 @@ blockquote small {
 .header .primary .navbar .nav > li.item-primary:hover > a,
 .header .primary .item-primary .sub,
 .header .primary .item-primary.megamenu > .sub .promo-block {
-  border-color: #428bca;
+  border-color: #439d43;
 }
 .header .primary .navbar .nav > li.item-success:hover > a,
 .header .primary .item-success .sub,
@@ -3683,7 +3682,7 @@ blockquote small {
 .header .primary .item-primary.item-bg .sub,
 .header .primary .item-primary.item-bg.parent .sub,
 .header .primary .item-primary.item-bg.parent:hover > .sub {
-  background: #428bca;
+  background: #439d43;
 }
 .header .primary .navbar .nav > li.item-success.item-bg:hover > a,
 .header .primary .item-success.item-bg .sub,
@@ -5027,7 +5026,7 @@ blockquote small {
   background:#fff !important
 }
 .slider.rs-slider .tp-loader {
-  background-image: url("../img/svg/loader.svg"), none;
+  background-image: url("../../img/svg/loader.svg"), none;
   background-repeat: no-repeat;
   background-position: 50% 50%;
   background-size: 40px;
