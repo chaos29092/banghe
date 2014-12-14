@@ -72,7 +72,7 @@
 
             <div class="bottom-padding col-sm-6 col-md-6">
                 <a href="{{url('process')}}"><h4>我们的检测流程</h4></a>
-
+                <a href="{{url('process')}}"><p class="lead">点击查看详细检测流程</p></a>
             </div>
 
 

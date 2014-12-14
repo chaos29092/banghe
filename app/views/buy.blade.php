@@ -1,10 +1,10 @@
 @extends('master')
 
 @section('title')
-    <title>如何购买</title>
-    <meta name="keywords" content="天赐基因检测 关于邦禾">
-    <meta name="description" content="Progressive — Responsive Multipurpose HTML Template">
-    <meta name="author" content="itembridge.com">
+<meta charset="gb2312">
+    <title>邦禾 - 如何购买</title>
+    <meta name="keywords" content="邦禾 - 如何购买">
+    <meta name="description" content="邦禾 - 如何购买">
 @stop
 
 @section('content')
@@ -20,14 +20,13 @@
     <div class="title-box">
         <h2 class="h1 title">银行汇款</h2>
     </div>
-    <p>我们暂时只接受银行汇款</p>
-    <p>汇款账户：888888888888</p>
+    <p>银行账号：88888888888</p>
 
 
     <div class="title-box">
             <h2 class="h1 title">在线支付</h2>
     </div>
-<p>在线支付接口</p>
+    <a href="http://pay3.chinabank.com.cn/Payto?v_mid=23135777&v_id=198831&prdesc=banghe g1&quantity=1&v_amount=0.01&productname=banghe g1"><button type="button" class="btn btn-lg btn-primary">测试产品1</button></a>
 
 
 

@@ -3,8 +3,7 @@
 @section('title')
     <title>渠道合作</title>
     <meta name="keywords" content="天赐基因检测 邦禾 渠道合作">
-    <meta name="description" content="Progressive — Responsive Multipurpose HTML Template">
-    <meta name="author" content="itembridge.com">
+    <meta name="description" content="天赐基因检测 邦禾 渠道合作">
 @stop
 
 @section('content')
