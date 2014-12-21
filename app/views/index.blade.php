@@ -80,6 +80,39 @@
     </div>
 </div>
 
+<div class="container" id="price">
+            <div class="title-box text-center">
+                <h1 class="title">邦禾基因套餐选择</h1>
+            </div>
+    <div class="row">
+        <a href=""><div class="col-md-3 well well-lg">
+            <h4 class="text-center">常见肿瘤基因检测</h4>
+        </div></a>
+        <div class="col-md-3 well well-lg">
+            <h4 class="text-center">女性健康基因检测</h4>
+        </div>
+        <div class="col-md-3 well well-lg">
+            <h4 class="text-center">男性健康基因检测</h4>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-3 well well-lg">
+            <h4 class="text-center">心脑血管基因检测</h4>
+        </div>
+        <div class="col-md-3 well well-lg">
+            <h4 class="text-center">常见易感基因检测</h4>
+        </div>
+        <div class="col-md-3 well well-lg">
+            <h4 class="text-center">全谱易感基因检测</h4>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-3 well well-lg">
+            <h4 class="text-center">儿童天赋基因检测</h4>
+        </div>
+    </div>
+</div>
+
 <div class="full-width-box bottom-padding" id="tem">
     <div class="fwb-bg background-green"></div>
 

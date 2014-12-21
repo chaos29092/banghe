@@ -54,7 +54,7 @@
                     <div class="right-box-wrapper">
                         <div class="header-icons">
                             <div>
-                                <p>DNA技术应用普及者</p>
+                                <p>邦禾生物—DNA技术应用普及者</p>
                             </div>
                             <!-- .search-header-->
                         </div>
