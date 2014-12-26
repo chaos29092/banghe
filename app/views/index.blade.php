@@ -8,8 +8,11 @@
 @stop
 
 @section('content')
-
+    <div>
+        <img src="{{asset('img/banner1.jpg')}}" alt=""/>
+    </div>
 <section id="main">
+
 <article class="content">
 <div class="container">
 
