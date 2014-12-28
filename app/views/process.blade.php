@@ -17,7 +17,7 @@
 </header>
 
 <div class="container">
-    <div id="green">
+    <div>
     <div class="title-box">
         <h2 class="h1 title">为什么要做天赐系列基因检测</h2>
     </div>
@@ -26,7 +26,7 @@
     <p>基因筛查即了解基因信息的手段。通过采集受检者的DNA样本，运用先进的基因芯片和测序技术，检测与疾病或性格、智力等相关的基因，获知受检者在相关方面的遗传特征。</p>
     </div>
 
-    <div id="blue">
+    <div>
     <div class="title-box">
             <h2 class="h1 title">步骤一：采集基因样本</h2>
     </div>

@@ -10,38 +10,14 @@
 | and give it the Closure to execute when that URI is requested.
 |
 */
+//page
+Route::get('/', 'PageController@index');
+Route::get('process', 'PageController@process');
+Route::get('privacy', 'PageController@privacy');
+Route::get('about_us', 'PageController@about_us');
+Route::get('channel', 'PageController@channel');
+Route::get('buy', 'PageController@buy');
+Route::get('new_1', 'PageController@new_1');
 
-Route::get('/', function()
-{
-	return View::make('index');
-});
-
-Route::get('process', function()
-{
-   return View::make('process');
-});
-
-Route::get('privacy', function()
-{
-    return View::make('privacy');
-});
-
-Route::get('about_us', function()
-{
-    return View::make('about_us');
-});
-
-Route::get('channel', function()
-{
-    return View::make('channel');
-});
-
-Route::get('buy', function()
-{
-    return View::make('buy');
-});
-
-Route::get('new_1', function()
-{
-    return View::make('new_1');
-});
+//product
+Route::get('test', 'ProductController@test');
