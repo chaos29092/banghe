@@ -88,7 +88,7 @@
                 <h1 class="title">邦禾基因套餐选择</h1>
             </div>
     <div class="row">
-        <a href=""><div class="col-md-3 well well-lg">
+        <a href="{{url('products/changjian')}}"><div class="col-md-3 well well-lg">
             <h4 class="text-center">常见肿瘤基因检测</h4>
         </div></a>
         <div class="col-md-3 well well-lg">

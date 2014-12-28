@@ -20,4 +20,9 @@ Route::get('buy', 'PageController@buy');
 Route::get('new_1', 'PageController@new_1');
 
 //product
-Route::get('test', 'ProductController@test');
+Route::get('products', 'ProductController@products');
+Route::get('products/changjian', 'ProductController@changjian');
+Route::get('products/women', 'ProductController@women');
+Route::get('products/men', 'ProductController@men');
+Route::get('products/xinnao', 'ProductController@xinnao');
+Route::get('products/yigan', 'ProductController@yigan');

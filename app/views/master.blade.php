@@ -74,6 +74,9 @@
                                         <li class="item-primary item-bg">
                                             <a href="{{url('/')}}">首页</a>
                                         </li>
+                                        <li class="item-primary item-bg">
+                                            <a href="{{url('products')}}">产品列表</a>
+                                        </li>
 
                                         <li class="item-primary item-bg">
                                             <a href="{{url('process')}}">检测流程</a>

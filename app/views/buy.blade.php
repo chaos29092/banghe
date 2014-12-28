@@ -1,7 +1,6 @@
 @extends('master')
 
 @section('title')
-<meta charset="gb2312">
     <title>邦禾 - 如何购买</title>
     <meta name="keywords" content="邦禾 - 如何购买">
     <meta name="description" content="邦禾 - 如何购买">

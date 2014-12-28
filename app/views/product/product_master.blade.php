@@ -1,7 +1,6 @@
 @extends('master')
 
 @section('title')
-    <meta charset="gb2312">
     <title>邦禾 - 基因检测产品</title>
     <meta name="keywords" content="邦禾 - 基因检测产品">
     <meta name="description" content="邦禾 - 基因检测产品">
@@ -23,7 +22,7 @@
                             <div class="image-box">
                                 <div class="general-img">
                                     @yield('productImage')
-                                    <img alt="" src="img/content/single-1.png" width="700" height="700">
+
                                 </div>
                                 <!-- .general-img -->
 
@@ -60,8 +59,6 @@
 
                             <div class="price-box">
                                 @yield('price')
-                                <span class="price-old">$1500</span>
-                                <span class="price">$1199.00</span>
                             </div>
 
                             <form class="form-inline add-cart-form">
@@ -126,11 +123,11 @@
                         </header>
                         <nav>
                             <ul>
-                                <li><a href="#">常见基因检测</a></li>
-                                <li><a href="#">女性健康基因检测</a></li>
-                                <li><a href="#">男性健康基因检测</a></li>
-                                <li><a href="#">心脑血管基因检测</a></li>
-                                <li><a href="#">常见易感基因检测</a></li>
+                                <li><a href="{{url('products/changjian')}}">常见基因检测</a></li>
+                                <li><a href="{{url('products/women')}}">女性健康基因检测</a></li>
+                                <li><a href="{{url('products/men')}}">男性健康基因检测</a></li>
+                                <li><a href="{{url('products/xinnao')}}">心脑血管基因检测</a></li>
+                                <li><a href="{{url('products/yigan')}}">常见易感基因检测</a></li>
                                 <li><a href="#">全谱易感基因检测</a></li>
                                 <li><a href="#">儿童天赋基因检测</a></li>
                             </ul>
