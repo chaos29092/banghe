@@ -17,34 +17,39 @@
         <div class="container">
             <div class="row">
                 <article class="col-sm-12 col-md-9 content product-page pull-right">
-                    <div class="container" id="price">
+                    <div class="container-fluid" id="price">
                         <div class="title-box text-center">
                             <h1 class="title">邦禾基因套餐选择</h1>
                         </div>
                         <div class="row">
-                            <a href=""><div class="col-md-3 well well-lg">
+                            <a href=""><div class="col-md-4 well well-lg">
                                     <h4 class="text-center">常见肿瘤基因检测</h4>
                                 </div></a>
-                            <div class="col-md-3 well well-lg">
+                            <div class="col-md-4 well well-lg">
                                 <h4 class="text-center">女性健康基因检测</h4>
                             </div>
-                            <div class="col-md-3 well well-lg">
+
+                        </div>
+
+                        <div class="row">
+                            <div class="col-md-4 well well-lg">
                                 <h4 class="text-center">男性健康基因检测</h4>
+                            </div>
+                            <div class="col-md-4 well well-lg">
+                                <h4 class="text-center">心脑血管基因检测</h4>
                             </div>
                         </div>
                         <div class="row">
-                            <div class="col-md-3 well well-lg">
-                                <h4 class="text-center">心脑血管基因检测</h4>
-                            </div>
-                            <div class="col-md-3 well well-lg">
+
+                            <div class="col-md-4 well well-lg">
                                 <h4 class="text-center">常见易感基因检测</h4>
                             </div>
-                            <div class="col-md-3 well well-lg">
+                            <div class="col-md-4 well well-lg">
                                 <h4 class="text-center">全谱易感基因检测</h4>
                             </div>
                         </div>
                         <div class="row">
-                            <div class="col-md-3 well well-lg">
+                            <div class="col-md-4 well well-lg">
                                 <h4 class="text-center">儿童天赋基因检测</h4>
                             </div>
                         </div>
@@ -59,11 +64,11 @@
                         </header>
                         <nav>
                             <ul>
-                                <li><a href="#">常见基因检测</a></li>
-                                <li><a href="#">女性健康基因检测</a></li>
-                                <li><a href="#">男性健康基因检测</a></li>
-                                <li><a href="#">心脑血管基因检测</a></li>
-                                <li><a href="#">常见易感基因检测</a></li>
+                                <li><a href="{{url('products/changjian')}}">常见基因检测</a></li>
+                                <li><a href="{{url('products/women')}}">女性健康基因检测</a></li>
+                                <li><a href="{{url('products/men')}}">男性健康基因检测</a></li>
+                                <li><a href="{{url('products/xinnao')}}">心脑血管基因检测</a></li>
+                                <li><a href="{{url('products/yigan')}}">常见易感基因检测</a></li>
                                 <li><a href="#">全谱易感基因检测</a></li>
                                 <li><a href="#">儿童天赋基因检测</a></li>
                             </ul>
