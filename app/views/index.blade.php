@@ -23,7 +23,10 @@
         <p class="lead">右图如果有人发现了某种遗传疾病， <br/>
         你知道哪些人会影响到你或者你的孩子吗？</p>
 
+        <h6>小贴士： 只有六人不会被影响到</h6>
+
     </div>
+
 
     <div class="bottom-padding col-sm-6 col-md-6">
         <img src="img/jiapu.jpg" class="img-responsive img-rounded center-block" alt=""/>
@@ -91,9 +94,9 @@
         <a href="{{url('products/changjian')}}"><div class="col-md-3 well well-lg">
             <h4 class="text-center">常见肿瘤基因检测</h4>
         </div></a>
-        <div class="col-md-3 well well-lg">
+        <a href="{{url('products/changjian')}}"><div class="col-md-3 well well-lg">
             <h4 class="text-center">女性健康基因检测</h4>
-        </div>
+        </div></a>
         <div class="col-md-3 well well-lg">
             <h4 class="text-center">男性健康基因检测</h4>
         </div>
