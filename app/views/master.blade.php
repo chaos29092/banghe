@@ -44,7 +44,7 @@
                 <div class="col-xs-6 col-md-2 col-lg-3 logo-box">
                     <div class="logo">
                         <a href="index.html">
-                            <img src="img/logo.jpg" class="logo-img" alt="">
+                            <img src="{{asset('img/logo.jpg')}}" class="logo-img" alt="">
                         </a>
                     </div>
                 </div>
@@ -133,7 +133,7 @@
   <strong>为更好的开拓市场</strong><br>
   诚招代理商<br>
   有意者请联系我们。<br>
-  <abbr>招商电话:</abbr> 400-XXXXX
+  <abbr>招商电话:</abbr> 400 6856 220
 </address>
                     <div class="clearfix"></div>
                 </aside>
@@ -162,7 +162,7 @@
                         <ul>
                             <li><a href="{{asset('about_us')}}">关于邦禾</a></li>
                             <li><a href="{{asset('process')}}">检测流程</a></li>
-                            <li><a href="{{asset('channel')}}">渠道合作</a></li>
+                            {{--<li><a href="{{asset('channel')}}">渠道合作</a></li>--}}
                             <li><a href="{{asset('buy')}}">如何购买</a></li>
                         </ul>
                     </nav>
@@ -200,8 +200,8 @@
 				M11.001,12H5V2h6V12z"></path>
 			</svg>
                     </div>
-                    <strong class="title">咨询：</strong> +1 (877) 123-45-67 <br>
-                    <strong>招商：</strong> +1 (777) 123-45-67
+                    <strong class="title">咨询：</strong> 400 6856 220 <br>
+                    <strong>招商：</strong> 400 6856 220
                 </div>
 
                 <div class="address col-xs-6 col-sm-3 col-md-3">
@@ -219,7 +219,7 @@
 			  </g>
 			</svg>
                     </div>
-                    XX区XX路XX室,上海，邮编：200000
+                    河南郑州高新区长椿路11号国家大学科技园研发5号楼
                 </div>
 
                 <div class="col-xs-12 col-sm-3 col-md-3">
