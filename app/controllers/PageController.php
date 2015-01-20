@@ -31,9 +31,37 @@ class PageController extends BaseController {
 	{
 		return View::make('buy');
 	}
-
+//news
 	public function new_1()
 	{
-		return View::make('new_1');
+		return View::make('news.new_1');
+	}
+	public function new_2()
+	{
+		return View::make('news.new_2');
+	}
+	public function new_3()
+	{
+		return View::make('news.new_3');
+	}
+
+	public function dna()
+	{
+		return View::make('dna');
+	}
+//dna
+	public function dna_1()
+	{
+		return View::make('dna.dna_1');
+	}
+
+	public function dna_2()
+	{
+		return View::make('dna.dna_2');
+	}
+
+	public function dna_3()
+	{
+		return View::make('dna.dna_3');
 	}
 }

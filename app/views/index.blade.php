@@ -128,16 +128,16 @@
         </div>
         <div>
         <blockquote>
-          <a href="{{url('new_1')}}"><p>游走在疏堵间的基因测序</p></a>
-          <footer>2014.11.26</footer>
+          <a href="{{url('new_1')}}"><p>如果姚贝娜提前做了基因检测，她的天籁之音就可以继续唱响舞台</p></a>
+          <footer>2015.01.19</footer>
         </blockquote>
         <blockquote>
-          <a href=""><p>中国科学家领衔的国际团队完成世界首个兰花全基因组测序</p></a>
-          <footer>2014.11.24</footer>
+          <a href="{{url('new_2')}}"><p>基因检测：一管血“扫”出你的疾病地雷</p></a>
+          <footer>2015.01.18</footer>
         </blockquote>
         <blockquote>
-          <a href=""><p>中国科学家完成水稻5个“近亲”全基因组测序</p></a>
-          <footer>2014.11.05</footer>
+          <a href="{{url('new_3')}}"><p>个体化用药要靠基因检测来实现</p></a>
+          <footer>2014.12.04</footer>
         </blockquote>
         </div>
     </div>

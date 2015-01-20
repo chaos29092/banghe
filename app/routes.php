@@ -18,6 +18,12 @@ Route::get('about_us', 'PageController@about_us');
 Route::get('channel', 'PageController@channel');
 Route::get('buy', 'PageController@buy');
 Route::get('new_1', 'PageController@new_1');
+Route::get('new_2', 'PageController@new_2');
+Route::get('new_3', 'PageController@new_3');
+Route::get('dna', 'PageController@dna');
+Route::get('dna/dna_1', 'PageController@dna_1');
+Route::get('dna/dna_2', 'PageController@dna_2');
+Route::get('dna/dna_3', 'PageController@dna_3');
 
 //product
 Route::get('products', 'ProductController@products');

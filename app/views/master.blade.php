@@ -87,12 +87,8 @@
                                         <li class="item-primary item-bg">
                                             <a href="{{url('about_us')}}">关于我们</a>
                                         </li>
-                                        <li class="parent item-primary item-bg">
-                                            <a href="#">帮助</a>
-                                            <ul class="sub">
-                                                <li><a href="{{url('channel')}}">渠道合作</a></li>
-                                                <li><a href="#">DNA百科</a></li>
-                                            </ul>
+                                        <li class="item-primary item-bg">
+                                            <a href="{{url('dna')}}">DNA百科</a>
                                         </li>
                                         <li class="item-danger item-bg text-danger">
                                             <a href="{{url('buy')}}"
@@ -174,10 +170,9 @@
                     </div>
                     <nav>
                         <ul>
-                            <li><a href="{{asset('/')}}#what">基因检测与重大疾病预防</a></li>
-                            <li><a href="{{asset('/')}}#what">基因检测与个性化用药</a></li>
-                            <li><a href="{{asset('/')}}#what">基因检测与生活方式</a></li>
-                            <li><a href="{{asset('/')}}#what">基因检测与临床检测</a></li>
+                            <li><a href="{{url('dna.dna_1')}}">基因检测与重大疾病预防</a></li>
+                            <li><a href="{{url('dna.dna_2')}}">基因检测与个性化用药</a></li>
+                            <li><a href="{{url('dna.dna_3')}}">基因检测与生活方式</a></li>
                         </ul>
                     </nav>
                 </aside>
