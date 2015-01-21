@@ -170,9 +170,9 @@
                     </div>
                     <nav>
                         <ul>
-                            <li><a href="{{url('dna.dna_1')}}">基因检测与重大疾病预防</a></li>
-                            <li><a href="{{url('dna.dna_2')}}">基因检测与个性化用药</a></li>
-                            <li><a href="{{url('dna.dna_3')}}">基因检测与生活方式</a></li>
+                            <li><a href="{{url('dna/dna_1')}}">基因检测与重大疾病预防</a></li>
+                            <li><a href="{{url('dna/dna_2')}}">基因检测与个性化用药</a></li>
+                            <li><a href="{{url('dna/dna_3')}}">基因检测与生活方式</a></li>
                         </ul>
                     </nav>
                 </aside>

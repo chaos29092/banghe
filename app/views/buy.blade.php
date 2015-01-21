@@ -19,14 +19,15 @@
     <div class="title-box">
         <h2 class="h1 title">银行汇款</h2>
     </div>
+    <p>您可以直接使用银行汇款</p>
     <p>银行账号：88888888888</p>
 
 
     <div class="title-box">
             <h2 class="h1 title">在线支付</h2>
     </div>
-    <a href="http://pay3.chinabank.com.cn/Payto?v_mid=23135777&v_id=198831&prdesc=banghe g1&quantity=1&v_amount=0.20&productname=banghe g1"><button type="button" class="btn btn-lg btn-warning">现在购买</button></a>
-
+    <p>您可以在产品页面点击立即购买按钮来进行在线支付，请注意在支付页面的附加信息中填写联系方式。</p>
+    <a href="{{url('buy')}}"><button type="button" class="btn btn-lg btn-primary">现在转到产品页面</button></a>
 
 
 
