@@ -33,3 +33,4 @@ Route::get('products/men', 'ProductController@men');
 Route::get('products/xinnao', 'ProductController@xinnao');
 Route::get('products/yigan', 'ProductController@yigan');
 Route::get('products/quanpu', 'ProductController@quanpu');
+Route::get('products/tianfu', 'ProductController@tianfu');

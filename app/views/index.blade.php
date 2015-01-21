@@ -143,7 +143,7 @@
 </div>
 
 <div class="container">
-<a href="#"><h2><button type="button" class="btn btn-danger btn-lg center-block">现在订购</button></h2></a>
+<a href="{{url('buy')}}"><h2><button type="button" class="btn btn-danger btn-lg center-block">现在订购</button></h2></a>
 
 
 </div>

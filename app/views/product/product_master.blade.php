@@ -62,7 +62,7 @@
                             </div>
 
                             <form class="form-inline add-cart-form">
-                                <button class="btn add-cart btn-default btn-lg">现在购买</button>
+                                @yield('buy')
                             </form>
 
                         </div>
@@ -128,8 +128,8 @@
                                 <li><a href="{{url('products/men')}}">男性健康套餐</a></li>
                                 <li><a href="{{url('products/xinnao')}}">心脑血管检测套餐</a></li>
                                 <li><a href="{{url('products/yigan')}}">常规检测套餐</a></li>
-                                <li><a href="#">全谱检测套餐</a></li>
-                                <li><a href="#">儿童天赋基因检测</a></li>
+                                <li><a href="{{url('products/quanpu')}}">全谱检测套餐</a></li>
+                                <li><a href="{{url('products/tianfu')}}">儿童天赋基因检测</a></li>
                             </ul>
                         </nav>
                     </aside>
@@ -141,30 +141,31 @@
                         </header>
                         <ul>
                             <li class="clearfix">
-                                <a href="shop-product-view.html" class="product-image">
-                                    <img src="img/content/product-7.png" width="64" height="64" alt="" title="">
+                                <a href="{{url('products/xinnao')}}" class="product-image">
+                                    <img src="{{asset('img/products/dna_small.jpg')}}" width="64" height="64" alt="" title="">
                                 </a>
 
                                 <h3 class="product-name">
-                                    <a href="shop-product-view.html">Xperia miro</a>
+                                    <a href="{{url('products/xinnao')}}">心脑血管检测套餐</a>
                                 </h3>
 
                                 <div class="price-box">
-                                    <span class="price-old">$1500</span>
-                                    <span class="price">$1199.00</span>
+                                    <span class="price-old">￥3000</span>
+                                    <span class="price">￥1600.00</span>
                                 </div>
                             </li>
                             <li class="clearfix">
-                                <a href="shop-product-view.html" class="product-image">
-                                    <img src="img/content/product-3.png" width="64" height="64" alt="" title="">
+                                <a href="{{url('products/quanpu')}}" class="product-image">
+                                    <img src="{{asset('img/products/dna_small.jpg')}}" width="64" height="64" alt="" title="">
                                 </a>
 
                                 <h3 class="product-name">
-                                    <a href="shop-product-view.html">Projector VPL-VW95ES</a>
+                                    <a href="{{url('products/quanpu')}}">全谱检测套餐</a>
                                 </h3>
 
                                 <div class="price-box">
-                                    <div class="price">$3599.00</div>
+                                    <span class="price-old">￥12900</span>
+                                    <span class="price">￥6900.00</span>
                                 </div>
                             </li>
                         </ul>

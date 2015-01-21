@@ -22,36 +22,49 @@
                             <h1 class="title">邦禾基因套餐选择</h1>
                         </div>
                         <div class="row">
-                            <a href=""><div class="col-md-4 well well-lg">
+                            <a href="{{url('products/changjian')}}">
+                                <div class="col-md-4 well well-lg">
                                     <h4 class="text-center">体验套餐</h4>
-                                </div></a>
-                            <div class="col-md-4 well well-lg">
-                                <h4 class="text-center">女性健康套餐</h4>
-                            </div>
+                                </div>
+                            </a>
+                            <a href="{{url('products/women')}}">
+                                <div class="col-md-4 well well-lg">
+                                    <h4 class="text-center">女性健康套餐</h4>
+                                </div>
+                            </a>
 
                         </div>
 
                         <div class="row">
-                            <div class="col-md-4 well well-lg">
-                                <h4 class="text-center">男性健康套餐</h4>
-                            </div>
-                            <div class="col-md-4 well well-lg">
-                                <h4 class="text-center">心脑血管检测套餐</h4>
-                            </div>
+                            <a href="{{url('products/men')}}">
+                                <div class="col-md-4 well well-lg">
+                                    <h4 class="text-center">男性健康套餐</h4>
+                                </div>
+                            </a>
+                            <a href="{{url('products/xinnao')}}">
+                                <div class="col-md-4 well well-lg">
+                                    <h4 class="text-center">心脑血管检测套餐</h4>
+                                </div>
+                            </a>
                         </div>
                         <div class="row">
-
-                            <div class="col-md-4 well well-lg">
-                                <h4 class="text-center">常规检测套餐</h4>
-                            </div>
-                            <div class="col-md-4 well well-lg">
-                                <h4 class="text-center">全谱检测套餐</h4>
-                            </div>
+                            <a href="{{url('products/yigan')}}">
+                                <div class="col-md-4 well well-lg">
+                                    <h4 class="text-center">常规检测套餐</h4>
+                                </div>
+                            </a>
+                            <a href="{{url('products/quanpu')}}">
+                                <div class="col-md-4 well well-lg">
+                                    <h4 class="text-center">全谱检测套餐</h4>
+                                </div>
+                            </a>
                         </div>
                         <div class="row">
-                            <div class="col-md-4 well well-lg">
-                                <h4 class="text-center">儿童天赋基因检测</h4>
-                            </div>
+                            <a href="{{url('products/tianfu')}}">
+                                <div class="col-md-4 well well-lg">
+                                    <h4 class="text-center">儿童天赋基因检测</h4>
+                                </div>
+                            </a>
                         </div>
                     </div>
                 </article>
@@ -69,8 +82,8 @@
                                 <li><a href="{{url('products/men')}}">男性健康套餐</a></li>
                                 <li><a href="{{url('products/xinnao')}}">心脑血管检测套餐</a></li>
                                 <li><a href="{{url('products/yigan')}}">常规检测套餐</a></li>
-                                <li><a href="#">全谱检测套餐</a></li>
-                                <li><a href="#">儿童天赋基因检测</a></li>
+                                <li><a href="{{url('products/quanpu')}}">全谱检测套餐</a></li>
+                                <li><a href="{{url('products/tianfu')}}">儿童天赋基因检测</a></li>
                             </ul>
                         </nav>
                     </aside>
@@ -83,30 +96,33 @@
                         <ul>
                             <li class="clearfix">
                                 <a href="shop-product-view.html" class="product-image">
-                                    <img src="img/content/product-7.png" width="64" height="64" alt="" title="">
+                                    <img src="{{asset('img/products/dna_small.jpg')}}" width="64" height="64" alt="" title="">
                                 </a>
 
                                 <h3 class="product-name">
-                                    <a href="shop-product-view.html">Xperia miro</a>
+                                    <a href="{{url('products/xinnao')}}">心脑血管检测套餐</a>
                                 </h3>
 
                                 <div class="price-box">
-                                    <span class="price-old">$1500</span>
-                                    <span class="price">$1199.00</span>
+                                    <span class="price-old">￥3000</span>
+                                    <span class="price">￥1600.00</span>
                                 </div>
                             </li>
                             <li class="clearfix">
                                 <a href="shop-product-view.html" class="product-image">
-                                    <img src="img/content/product-3.png" width="64" height="64" alt="" title="">
+                                    <img src="{{asset('img/products/dna_small.jpg')}}" width="64" height="64" alt="" title="">
                                 </a>
 
                                 <h3 class="product-name">
-                                    <a href="shop-product-view.html">Projector VPL-VW95ES</a>
+                                    <a href="{{url('products/quanpu')}}">全谱检测套餐</a>
                                 </h3>
 
+
                                 <div class="price-box">
-                                    <div class="price">$3599.00</div>
+                                    <span class="price-old">￥12900</span>
+                                    <span class="price">￥6900.00</span>
                                 </div>
+
                             </li>
                         </ul>
                     </aside>

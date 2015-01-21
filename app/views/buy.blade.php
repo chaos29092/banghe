@@ -25,7 +25,7 @@
     <div class="title-box">
             <h2 class="h1 title">在线支付</h2>
     </div>
-    <a href="http://pay3.chinabank.com.cn/Payto?v_mid=23135777&v_id=198831&prdesc=banghe g1&quantity=1&v_amount=0.01&productname=banghe g1"><button type="button" class="btn btn-lg btn-primary">测试产品1</button></a>
+    <a href="http://pay3.chinabank.com.cn/Payto?v_mid=23135777&v_id=198831&prdesc=banghe g1&quantity=1&v_amount=0.20&productname=banghe g1"><button type="button" class="btn btn-lg btn-warning">现在购买</button></a>
 
 
 

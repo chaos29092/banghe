@@ -11,7 +11,7 @@
 @stop
 
 @section('productImage')
-    <img alt="" src="img/content/single-1.png" width="700" height="700">
+    <img alt="体验套餐" src="{{asset('img/products/dna.jpg')}}" width="700" height="700">
 @stop
 
 @section('piao')
@@ -25,6 +25,10 @@
 @section('price')
     <span class="price-old">￥1600</span>
     <span class="price">￥800.00</span>
+@stop
+
+@section('buy')
+    <a href="http://pay3.chinabank.com.cn/Payto?v_mid=23135777&v_id=198831&prdesc=banghe DNA tiyan&quantity=1&v_amount=800&productname=banghe DNA tiyan"><button type="button" class="btn btn-lg btn-danger">现在购买</button></a>
 @stop
 
 @section('fullDescription')

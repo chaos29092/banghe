@@ -37,4 +37,9 @@ class ProductController extends BaseController {
 		return View::make('product.quanpu');
 	}
 
+	public function tianfu()
+	{
+		return View::make('product.tianfu');
+	}
+
 }
