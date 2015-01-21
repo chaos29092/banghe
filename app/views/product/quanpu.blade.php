@@ -1,13 +1,13 @@
 @extends('product.product_master')
 
 @section('title')
-    <title>邦禾 - 心脑血管检测套餐</title>
-    <meta name="keywords" content="邦禾 - 心脑血管检测套餐">
-    <meta name="description" content="邦禾 - 心脑血管检测套餐">
+    <title>邦禾 - 全谱检测套餐</title>
+    <meta name="keywords" content="邦禾 - 全谱检测套餐">
+    <meta name="description" content="邦禾 - 全谱检测套餐">
 @stop
 
 @section('productTitle')
-    心脑血管检测套餐
+    全谱检测套餐
 @stop
 
 @section('productImage')
@@ -19,24 +19,37 @@
 @stop
 
 @section('productDescription')
-    <p>针对心脑血管基因的检测</p>
+    <p>全谱检测套餐，包含常见疾病86种，肿瘤易感102种</p>
 @stop
 
 @section('price')
-    <span class="price-old">￥3000</span>
-    <span class="price">￥1600.00</span>
+    <span class="price-old">￥12900</span>
+    <span class="price">￥6900.00</span>
 @stop
 
 @section('fullDescription')
     <h4>检测项目</h4>
     <table class="table table-bordered text-center">
         <tr>
-            <td>产品系列</td>
-            <td>检测项目</td>
+            <td colspan="2">检测项目</td>
         </tr>
         <tr>
-            <td>心脑血管检测套餐（6项）</td>
-            <td>急性心肌梗塞，高血压，高血脂，脑中风，老年性痴呆，冠心病</td>
+            <td width="100">骨骼系统</td>
+            <td>易感型骨关节炎，骨质疏松症，椎间盘疾病，牛皮癣关节炎，先天性脊柱侧凸</td>
+        </tr>
+        <tr>
+            <td width="100">呼吸系统</td>
+            <td>哮喘，易感</td>
+        </tr>
+        <tr>
+            <td width="100">免疫系统</td>
+            <td>丙型肝炎病毒易，乙型肝炎病毒，严重流行性感冒，自身免疫病易感6型，
+                自身免疫性疾病，登革病毒，细菌血症，曲霉病，
+                人类免疫缺陷病毒，结核分枝杆菌，先天性巨结肠症，IgE反应,遗传性过敏症，
+                麻风病，军团菌病，系统性红斑狼疮，溶血尿毒症综合征，
+                恶性高热易感1型，恶性高热易感5型，温和型疟疾	，疟疾，
+                自身免疫性甲状腺疾病……
+            </td>
         </tr>
     </table>
 

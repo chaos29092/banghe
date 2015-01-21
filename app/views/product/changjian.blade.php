@@ -1,13 +1,13 @@
 @extends('product.product_master')
 
 @section('title')
-    <title>邦禾 - 常见肿瘤基因检测</title>
-    <meta name="keywords" content="邦禾 - 常见肿瘤基因检测">
-    <meta name="description" content="邦禾 - 常见肿瘤基因检测">
+    <title>邦禾 - 体验套餐</title>
+    <meta name="keywords" content="邦禾 - 体验套餐">
+    <meta name="description" content="邦禾 - 体验套餐">
 @stop
 
 @section('productTitle')
-    常见肿瘤基因检测
+    体验套餐
 @stop
 
 @section('productImage')
@@ -23,8 +23,8 @@
 @stop
 
 @section('price')
-    <span class="price-old">￥1500</span>
-    <span class="price">￥1199.00</span>
+    <span class="price-old">￥1600</span>
+    <span class="price">￥800.00</span>
 @stop
 
 @section('fullDescription')

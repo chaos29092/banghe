@@ -23,29 +23,29 @@
                         </div>
                         <div class="row">
                             <a href=""><div class="col-md-4 well well-lg">
-                                    <h4 class="text-center">常见肿瘤基因检测</h4>
+                                    <h4 class="text-center">体验套餐</h4>
                                 </div></a>
                             <div class="col-md-4 well well-lg">
-                                <h4 class="text-center">女性健康基因检测</h4>
+                                <h4 class="text-center">女性健康套餐</h4>
                             </div>
 
                         </div>
 
                         <div class="row">
                             <div class="col-md-4 well well-lg">
-                                <h4 class="text-center">男性健康基因检测</h4>
+                                <h4 class="text-center">男性健康套餐</h4>
                             </div>
                             <div class="col-md-4 well well-lg">
-                                <h4 class="text-center">心脑血管基因检测</h4>
+                                <h4 class="text-center">心脑血管检测套餐</h4>
                             </div>
                         </div>
                         <div class="row">
 
                             <div class="col-md-4 well well-lg">
-                                <h4 class="text-center">常见易感基因检测</h4>
+                                <h4 class="text-center">常规检测套餐</h4>
                             </div>
                             <div class="col-md-4 well well-lg">
-                                <h4 class="text-center">全谱易感基因检测</h4>
+                                <h4 class="text-center">全谱检测套餐</h4>
                             </div>
                         </div>
                         <div class="row">
@@ -64,12 +64,12 @@
                         </header>
                         <nav>
                             <ul>
-                                <li><a href="{{url('products/changjian')}}">常见基因检测</a></li>
-                                <li><a href="{{url('products/women')}}">女性健康基因检测</a></li>
-                                <li><a href="{{url('products/men')}}">男性健康基因检测</a></li>
-                                <li><a href="{{url('products/xinnao')}}">心脑血管基因检测</a></li>
-                                <li><a href="{{url('products/yigan')}}">常见易感基因检测</a></li>
-                                <li><a href="#">全谱易感基因检测</a></li>
+                                <li><a href="{{url('products/changjian')}}">体验套餐</a></li>
+                                <li><a href="{{url('products/women')}}">女性健康套餐</a></li>
+                                <li><a href="{{url('products/men')}}">男性健康套餐</a></li>
+                                <li><a href="{{url('products/xinnao')}}">心脑血管检测套餐</a></li>
+                                <li><a href="{{url('products/yigan')}}">常规检测套餐</a></li>
+                                <li><a href="#">全谱检测套餐</a></li>
                                 <li><a href="#">儿童天赋基因检测</a></li>
                             </ul>
                         </nav>

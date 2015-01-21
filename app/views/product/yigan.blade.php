@@ -1,13 +1,13 @@
 @extends('product.product_master')
 
 @section('title')
-    <title>邦禾 - 心脑血管基因检测</title>
-    <meta name="keywords" content="邦禾 - 心脑血管基因检测">
-    <meta name="description" content="邦禾 - 心脑血管基因检测">
+    <title>邦禾 - 常规检测套餐</title>
+    <meta name="keywords" content="邦禾 - 常规检测套餐">
+    <meta name="description" content="邦禾 - 常规检测套餐">
 @stop
 
 @section('productTitle')
-    心脑血管基因检测
+    常规检测套餐
 @stop
 
 @section('productImage')
@@ -19,12 +19,12 @@
 @stop
 
 @section('productDescription')
-    <p>针对心脑血管基因的检测</p>
+    <p>常规检测套餐，包含多项常规检测项目</p>
 @stop
 
 @section('price')
-    <span class="price-old">￥1500</span>
-    <span class="price">￥1199.00</span>
+    <span class="price-old">￥4600</span>
+    <span class="price">￥2600.00</span>
 @stop
 
 @section('fullDescription')
@@ -35,7 +35,7 @@
             <td colspan="2">检测项目</td>
         </tr>
         <tr>
-            <td rowspan="2">心脑血管基因检测</td>
+            <td rowspan="2">常规检测套餐</td>
             <td>女性17项</td>
             <td>乳腺癌，宫颈癌，卵巢癌，肝癌，胃癌，结肠癌，肺癌，膀胱癌，急性心肌梗塞，高血压，高血脂，脑中风，老年性痴呆，冠心病，糖尿病，成人肥胖体质，肝脏药物代谢功能</td>
         </tr>

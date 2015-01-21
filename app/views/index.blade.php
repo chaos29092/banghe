@@ -78,10 +78,9 @@
 
             <div class="bottom-padding col-sm-6 col-md-6">
                 <a href="{{url('process')}}"><h4>我们的检测流程</h4></a>
+                <p class="lead">经过我们不断优化后的检测流程，可以给您的检测带来最大方便。</p>
                 <a href="{{url('process')}}"><p class="lead">点击查看详细检测流程</p></a>
             </div>
-
-
         </div>
     </div>
 </div>
@@ -92,24 +91,24 @@
             </div>
     <div class="row">
         <a href="{{url('products/changjian')}}"><div class="col-md-3 well well-lg">
-            <h4 class="text-center">常见肿瘤基因检测</h4>
+            <h4 class="text-center">体验套餐</h4>
         </div></a>
         <a href="{{url('products/changjian')}}"><div class="col-md-3 well well-lg">
-            <h4 class="text-center">女性健康基因检测</h4>
+            <h4 class="text-center">女性健康套餐</h4>
         </div></a>
         <div class="col-md-3 well well-lg">
-            <h4 class="text-center">男性健康基因检测</h4>
+            <h4 class="text-center">男性健康套餐</h4>
         </div>
     </div>
     <div class="row">
         <div class="col-md-3 well well-lg">
-            <h4 class="text-center">心脑血管基因检测</h4>
+            <h4 class="text-center">心脑血管检测套餐</h4>
         </div>
         <div class="col-md-3 well well-lg">
-            <h4 class="text-center">常见易感基因检测</h4>
+            <h4 class="text-center">常规检测套餐</h4>
         </div>
         <div class="col-md-3 well well-lg">
-            <h4 class="text-center">全谱易感基因检测</h4>
+            <h4 class="text-center">全谱检测套餐</h4>
         </div>
     </div>
     <div class="row">

@@ -7,7 +7,7 @@
 @stop
 
 @section('productTitle')
-    女性健康基因检测
+    女性健康套餐
 @stop
 
 @section('productImage')
@@ -23,8 +23,8 @@
 @stop
 
 @section('price')
-    <span class="price-old">￥1500</span>
-    <span class="price">￥1199.00</span>
+    <span class="price-old">￥3000</span>
+    <span class="price">￥1600.00</span>
 @stop
 
 @section('fullDescription')
