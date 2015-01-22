@@ -27,7 +27,7 @@
             <h2 class="h1 title">在线支付</h2>
     </div>
     <p>您可以在产品页面点击立即购买按钮来进行在线支付，请注意在支付页面的附加信息中填写联系方式。</p>
-    <a href="{{url('buy')}}"><button type="button" class="btn btn-lg btn-primary">现在转到产品页面</button></a>
+    <a href="{{url('products')}}"><button type="button" class="btn btn-lg btn-primary">现在转到产品页面</button></a>
 
 
 

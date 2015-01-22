@@ -93,28 +93,37 @@
         <a href="{{url('products/changjian')}}"><div class="col-md-3 well well-lg">
             <h4 class="text-center">体验套餐</h4>
         </div></a>
-        <a href="{{url('products/changjian')}}"><div class="col-md-3 well well-lg">
+        <a href="{{url('products/women')}}"><div class="col-md-3 well well-lg">
             <h4 class="text-center">女性健康套餐</h4>
         </div></a>
+        <a href="{{url('products/men')}}">
         <div class="col-md-3 well well-lg">
             <h4 class="text-center">男性健康套餐</h4>
-        </div>
+        </div></a>
     </div>
     <div class="row">
+        <a href="{{url('products/xinnao')}}">
         <div class="col-md-3 well well-lg">
             <h4 class="text-center">心脑血管检测套餐</h4>
         </div>
+        </a>
+        <a href="{{url('products/yigan')}}">
         <div class="col-md-3 well well-lg">
             <h4 class="text-center">常规检测套餐</h4>
         </div>
+        </a>
+        <a href="{{url('products/quanpu')}}">
         <div class="col-md-3 well well-lg">
             <h4 class="text-center">全谱检测套餐</h4>
         </div>
+        </a>
     </div>
     <div class="row">
+        <a href="{{url('products/tianfu')}}">
         <div class="col-md-3 well well-lg">
             <h4 class="text-center">儿童天赋基因检测</h4>
         </div>
+        </a>
     </div>
 </div>
 

@@ -1,9 +1,9 @@
 @extends('master')
 
 @section('title')
-    <title>邦禾 - 如何购买</title>
-    <meta name="keywords" content="邦禾 - 如何购买">
-    <meta name="description" content="邦禾 - 如何购买">
+    <title>邦禾 - DNA百科</title>
+    <meta name="keywords" content="邦禾 - DNA百科">
+    <meta name="description" content="邦禾 - DNA百科">
 @stop
 
 @section('content')
