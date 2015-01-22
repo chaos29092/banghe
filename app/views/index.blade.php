@@ -1,10 +1,10 @@
 @extends('master')
 
 @section('title')
-    <title>天赐基因检测</title>
-    <meta name="keywords" content="天赐 基因检测 预防癌症">
-    <meta name="description" content="Progressive — Responsive Multipurpose HTML Template">
-    <meta name="author" content="itembridge.com">
+    <title>邦禾生物—DNA技术应用普及者</title>
+    <meta name="keywords" content="邦禾生物—DNA技术应用普及者">
+    <meta name="description" content="邦禾生物—DNA技术应用普及者">
+    <meta name="author" content="chaos">
 @stop
 
 @section('content')
