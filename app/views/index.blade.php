@@ -104,7 +104,7 @@
     <div class="row">
         <a href="{{url('products/xinnao')}}">
         <div class="col-md-3 well well-lg">
-            <h4 class="text-center">心脑血管检测套餐</h4>
+            <h4 class="text-center">心脑血管套餐</h4>
         </div>
         </a>
         <a href="{{url('products/yigan')}}">

@@ -195,8 +195,7 @@
 				M11.001,12H5V2h6V12z"></path>
 			</svg>
                     </div>
-                    <strong class="title">咨询：</strong> 400 6856 220 <br>
-                    <strong>招商：</strong> 400 6856 220
+                    <strong class="title">招商/咨询：</strong> 400 6856 220 <br>
                 </div>
 
                 <div class="address col-xs-6 col-sm-3 col-md-3">
@@ -214,7 +213,7 @@
 			  </g>
 			</svg>
                     </div>
-                    河南郑州高新区长椿路11号国家大学科技园研发5号楼
+                    河南郑州长椿路#11国家大学科技园研发5号楼
                 </div>
 
                 <div class="col-xs-12 col-sm-3 col-md-3">

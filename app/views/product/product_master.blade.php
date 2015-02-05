@@ -126,7 +126,7 @@
                                 <li><a href="{{url('products/changjian')}}">体验套餐</a></li>
                                 <li><a href="{{url('products/women')}}">女性健康套餐</a></li>
                                 <li><a href="{{url('products/men')}}">男性健康套餐</a></li>
-                                <li><a href="{{url('products/xinnao')}}">心脑血管检测套餐</a></li>
+                                <li><a href="{{url('products/xinnao')}}">心脑血管套餐</a></li>
                                 <li><a href="{{url('products/yigan')}}">常规检测套餐</a></li>
                                 <li><a href="{{url('products/quanpu')}}">全谱检测套餐</a></li>
                                 <li><a href="{{url('products/tianfu')}}">儿童天赋基因检测</a></li>
@@ -146,7 +146,7 @@
                                 </a>
 
                                 <h3 class="product-name">
-                                    <a href="{{url('products/xinnao')}}">心脑血管检测套餐</a>
+                                    <a href="{{url('products/xinnao')}}">心脑血管套餐</a>
                                 </h3>
 
                                 <div class="price-box">
