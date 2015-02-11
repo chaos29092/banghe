@@ -2,9 +2,9 @@
 
 @section('title')
     <title>邦禾 - 新闻 - 基因检测：一管血“扫”出你的疾病地雷</title>
-    <meta name="keywords" content="天赐基因检测 邦禾 - 新闻 - 游走在疏堵间的基因测序">
-    <meta name="description" content="Progressive — Responsive Multipurpose HTML Template">
-    <meta name="author" content="itembridge.com">
+    <meta name="keywords" content="邦禾 - 新闻 - 基因检测：一管血“扫”出你的疾病地雷">
+    <meta name="description" content="邦禾 - 新闻 - 基因检测：一管血“扫”出你的疾病地雷">
+    <meta name="author" content="Chaos">
 @stop
 
 @section('content')

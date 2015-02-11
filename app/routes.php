@@ -1,15 +1,5 @@
 <?php
 
-/*
-|--------------------------------------------------------------------------
-| Application Routes
-|--------------------------------------------------------------------------
-|
-| Here is where you can register all of the routes for an application.
-| It's a breeze. Simply tell Laravel the URIs it should respond to
-| and give it the Closure to execute when that URI is requested.
-|
-*/
 //page
 Route::get('/', 'PageController@index');
 Route::get('process', 'PageController@process');
@@ -17,9 +7,18 @@ Route::get('privacy', 'PageController@privacy');
 Route::get('about_us', 'PageController@about_us');
 Route::get('channel', 'PageController@channel');
 Route::get('buy', 'PageController@buy');
+
+//news
+Route::get('news', 'PageController@news');
 Route::get('new_1', 'PageController@new_1');
 Route::get('new_2', 'PageController@new_2');
 Route::get('new_3', 'PageController@new_3');
+Route::get('new_4', 'PageController@new_4');
+Route::get('new_5', 'PageController@new_5');
+Route::get('new_6', 'PageController@new_6');
+Route::get('new_7', 'PageController@new_7');
+
+//dna
 Route::get('dna', 'PageController@dna');
 Route::get('dna/dna_1', 'PageController@dna_1');
 Route::get('dna/dna_2', 'PageController@dna_2');

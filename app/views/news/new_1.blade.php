@@ -2,9 +2,9 @@
 
 @section('title')
     <title>邦禾 - 新闻 - 如果姚贝娜提前做了基因检测，她的天籁之音就可以继续唱响舞台</title>
-    <meta name="keywords" content="天赐基因检测 邦禾 - 新闻 - 游走在疏堵间的基因测序">
-    <meta name="description" content="Progressive — Responsive Multipurpose HTML Template">
-    <meta name="author" content="itembridge.com">
+    <meta name="keywords" content="天赐基因检测 邦禾 - 新闻 - 如果姚贝娜提前做了基因检测，她的天籁之音就可以继续唱响舞台">
+    <meta name="description" content="如果姚贝娜提前做了基因检测，她的天籁之音就可以继续唱响舞台">
+    <meta name="author" content="Chaos">
 @stop
 
 @section('content')

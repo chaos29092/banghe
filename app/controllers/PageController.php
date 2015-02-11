@@ -32,6 +32,10 @@ class PageController extends BaseController {
 		return View::make('buy');
 	}
 //news
+	public function news()
+	{
+		return View::make('news.news');
+	}
 	public function new_1()
 	{
 		return View::make('news.new_1');
@@ -44,12 +48,24 @@ class PageController extends BaseController {
 	{
 		return View::make('news.new_3');
 	}
+	public function new_4()
+	{
+		return View::make('news.new_4');
+	}
+	public function new_5()
+	{
+		return View::make('news.new_5');
+	}
+	public function new_6()
+	{
+		return View::make('news.new_6');
+	}
 
+//dna
 	public function dna()
 	{
 		return View::make('dna');
 	}
-//dna
 	public function dna_1()
 	{
 		return View::make('dna.dna_1');

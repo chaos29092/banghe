@@ -136,16 +136,19 @@
         </div>
         <div>
         <blockquote>
-          <a href="{{url('new_1')}}"><p>如果姚贝娜提前做了基因检测，她的天籁之音就可以继续唱响舞台</p></a>
-          <footer>2015.01.19</footer>
+          <a href="{{url('new_5')}}"><p>基因决定你是不是“醉汉”</p></a>
+          <footer>2015.02.15</footer>
         </blockquote>
         <blockquote>
-          <a href="{{url('new_2')}}"><p>基因检测：一管血“扫”出你的疾病地雷</p></a>
-          <footer>2015.01.18</footer>
+          <a href="{{url('new_6')}}"><p>基因检测市场潜力过千亿</p></a>
+          <footer>2015.02.16</footer>
         </blockquote>
         <blockquote>
           <a href="{{url('new_3')}}"><p>个体化用药要靠基因检测来实现</p></a>
           <footer>2014.12.04</footer>
+        </blockquote>
+        <blockquote>
+            <a href="{{url('news')}}">更多新闻......</a>
         </blockquote>
         </div>
     </div>

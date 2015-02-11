@@ -2,9 +2,9 @@
 
 @section('title')
     <title>邦禾 - 新闻 - 个体化用药要靠基因检测来实现</title>
-    <meta name="keywords" content="天赐基因检测 邦禾 - 新闻 - 个体化用药要靠基因检测来实现">
-    <meta name="description" content="Progressive — Responsive Multipurpose HTML Template">
-    <meta name="author" content="itembridge.com">
+    <meta name="keywords" content="邦禾 - 新闻 - 个体化用药要靠基因检测来实现">
+    <meta name="description" content="邦禾 - 新闻 - 个体化用药要靠基因检测来实现">
+    <meta name="author" content="Chaos">
 @stop
 
 @section('content')
