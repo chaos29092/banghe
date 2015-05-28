@@ -61,6 +61,21 @@ class PageController extends BaseController {
 		return View::make('news.new_6');
 	}
 
+    public function new_7()
+	{
+		return View::make('news.new_7');
+	}
+
+    public function new_8()
+	{
+		return View::make('news.new_8');
+	}
+
+    public function new_9()
+	{
+		return View::make('news.new_9');
+	}
+
 //dna
 	public function dna()
 	{

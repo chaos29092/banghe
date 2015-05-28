@@ -136,16 +136,16 @@
         </div>
         <div>
         <blockquote>
-          <a href="{{url('new_5')}}"><p>基因决定你是不是“醉汉”</p></a>
-          <footer>2015.02.15</footer>
+          <a href="{{url('new_9')}}"><p>誓死保卫你，干细胞母亲</p></a>
+          <footer>2015.05.10</footer>
         </blockquote>
         <blockquote>
-          <a href="{{url('new_6')}}"><p>基因检测市场潜力过千亿</p></a>
-          <footer>2015.02.16</footer>
+          <a href="{{url('new_8')}}"><p>人类和酵母居然这么像</p></a>
+          <footer>2015.04.10</footer>
         </blockquote>
         <blockquote>
-          <a href="{{url('new_3')}}"><p>个体化用药要靠基因检测来实现</p></a>
-          <footer>2014.12.04</footer>
+          <a href="{{url('new_7')}}"><p>基因疗法，你准备好了吗？</p></a>
+          <footer>2015.03.10</footer>
         </blockquote>
         <blockquote>
             <a href="{{url('news')}}">更多新闻......</a>

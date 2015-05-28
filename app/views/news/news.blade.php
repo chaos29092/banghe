@@ -98,6 +98,45 @@
                     </footer>
                 </article><!-- .post -->
 
+                <article class="post">
+                    <h2 class="entry-title"><a href="{{url('new_7')}}">基因检测市场潜力过千亿</a></h2>
+                    <div class="entry-content">
+                        基因疗法，就是利用健康的基因来填补或替代人体中某些缺失或病变的基因，或人为的修改有缺陷的基因达到治病的目的。 目前的基因疗法通常是利用对人体无害的逆转录病毒当载体，把正常的基因嫁接到病毒上，再用这些病毒去感染取出的人体细胞，让它们把正常基因插进细胞的染色体中，使人体细胞就可以“获得”正常的基因，以取代原有的异常基因。
+                    </div>
+                    <footer class="entry-meta">
+                        <span class="autor-name">邦禾生物</span>,
+                        <span class="time">03.10.2015</span>
+                        <span class="separator">|</span>
+                        <span class="meta">发布于 <a href="{{url('news')}}">行业新闻</a></span>
+                    </footer>
+                </article><!-- .post -->
+
+                <article class="post">
+                    <h2 class="entry-title"><a href="{{url('new_8')}}">人类和酵母居然这么像</a></h2>
+                    <div class="entry-content">
+                        科学家们发现，虽然人类和酵母已经在不同的道路上进化了十亿年，但我们之前的相似之处仍然非常多。他们将四百多个人类基因分别插入到酵母细胞中，发现大约50%的基因能够行使功能让这种真菌存活下来。这项研究于五月二十一日提前发表在Science杂志的网站上。
+                    </div>
+                    <footer class="entry-meta">
+                        <span class="autor-name">邦禾生物</span>,
+                        <span class="time">04.10.2015</span>
+                        <span class="separator">|</span>
+                        <span class="meta">发布于 <a href="{{url('news')}}">行业新闻</a></span>
+                    </footer>
+                </article><!-- .post -->
+
+                <article class="post">
+                    <h2 class="entry-title"><a href="{{url('new_9')}}">誓死保卫你，干细胞母亲</a></h2>
+                    <div class="entry-content">
+                        华盛顿大学的科学家们发现，在放疗和化疗下死亡的子细胞，会在临死前发出SOS信号，让干细胞母亲避免同样的悲惨命运。这项研究发表在五月十一日的Nature Communications杂志上。
+                    </div>
+                    <footer class="entry-meta">
+                        <span class="autor-name">邦禾生物</span>,
+                        <span class="time">05.10.2015</span>
+                        <span class="separator">|</span>
+                        <span class="meta">发布于 <a href="{{url('news')}}">行业新闻</a></span>
+                    </footer>
+                </article><!-- .post -->
+
                 <div class="pagination-box">
                     <ul class="pagination">
                         <li class="disabled"><a href="#"><i class="fa fa-angle-left"></i></a></li>
