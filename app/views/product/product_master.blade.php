@@ -123,7 +123,6 @@
                         </header>
                         <nav>
                             <ul>
-                                <li><a href="{{url('products/changjian')}}">体验套餐</a></li>
                                 <li><a href="{{url('products/women')}}">女性健康套餐</a></li>
                                 <li><a href="{{url('products/men')}}">男性健康套餐</a></li>
                                 <li><a href="{{url('products/xinnao')}}">心脑血管套餐</a></li>

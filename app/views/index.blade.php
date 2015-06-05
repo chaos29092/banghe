@@ -90,9 +90,11 @@
                 <h1 class="title">邦禾基因套餐选择</h1>
             </div>
     <div class="row">
-        <a href="{{url('products/changjian')}}"><div class="col-md-3 well well-lg">
-            <h4 class="text-center">体验套餐</h4>
-        </div></a>
+        <a href="{{url('products/tianfu')}}">
+            <div class="col-md-3 well well-lg">
+                <h4 class="text-center">儿童天赋基因检测</h4>
+            </div>
+        </a>
         <a href="{{url('products/women')}}"><div class="col-md-3 well well-lg">
             <h4 class="text-center">女性健康套餐</h4>
         </div></a>
@@ -115,13 +117,6 @@
         <a href="{{url('products/quanpu')}}">
         <div class="col-md-3 well well-lg">
             <h4 class="text-center">全谱检测套餐</h4>
-        </div>
-        </a>
-    </div>
-    <div class="row">
-        <a href="{{url('products/tianfu')}}">
-        <div class="col-md-3 well well-lg">
-            <h4 class="text-center">儿童天赋基因检测</h4>
         </div>
         </a>
     </div>
