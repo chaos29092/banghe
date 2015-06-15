@@ -19,6 +19,7 @@ Route::get('new_6', 'PageController@new_6');
 Route::get('new_7', 'PageController@new_7');
 Route::get('new_8', 'PageController@new_8');
 Route::get('new_9', 'PageController@new_9');
+Route::get('new_10', 'PageController@new_10');
 
 //dna
 Route::get('dna', 'PageController@dna');
