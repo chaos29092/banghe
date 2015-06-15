@@ -1,10 +1,9 @@
 @extends('master')
 
 @section('title')
-    <title>邦禾 - 隐私与安全</title>
-    <meta name="keywords" content="天赐基因检测 邦禾 隐私与安全">
-    <meta name="description" content="Progressive — Responsive Multipurpose HTML Template">
-    <meta name="author" content="itembridge.com">
+    <title>隐私与安全 - 上海邦禾生物技术有限公司</title>
+    <meta name="keywords" content="天赐基因检测 隐私与安全 上海邦禾生物技术有限公司">
+    <meta name="description" content="天赐基因检测 隐私与安全 上海邦禾生物技术有限公司">
 @stop
 
 @section('content')

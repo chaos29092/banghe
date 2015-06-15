@@ -1,9 +1,9 @@
 @extends('master')
 
 @section('title')
-    <title>渠道合作</title>
-    <meta name="keywords" content="天赐基因检测 邦禾 渠道合作">
-    <meta name="description" content="天赐基因检测 邦禾 渠道合作">
+    <title>渠道合作 - 上海邦禾生物技术有限公司</title>
+    <meta name="keywords" content="天赐基因检测 邦禾 渠道合作 上海邦禾生物技术有限公司">
+    <meta name="description" content="天赐基因检测 邦禾 渠道合作 上海邦禾生物技术有限公司">
 @stop
 
 @section('content')

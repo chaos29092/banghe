@@ -1,9 +1,9 @@
 @extends('product.product_master')
 
 @section('title')
-    <title>邦禾 - 女性健康基因检测</title>
-    <meta name="keywords" content="邦禾 - 女性健康基因检测">
-    <meta name="description" content="邦禾 - 女性健康基因检测">
+    <title>女性健康基因检测 - 上海邦禾生物技术有限公司</title>
+    <meta name="keywords" content="邦禾 - 女性健康基因检测 上海邦禾生物技术有限公司">
+    <meta name="description" content="邦禾 - 女性健康基因检测 上海邦禾生物技术有限公司">
 @stop
 
 @section('productTitle')

@@ -130,18 +130,19 @@
             <h1 class="title">行业新闻</h1>
         </div>
         <div>
-        <blockquote>
-          <a href="{{url('new_9')}}"><p>誓死保卫你，干细胞母亲</p></a>
-          <footer>2015.05.10</footer>
-        </blockquote>
-        <blockquote>
-          <a href="{{url('new_8')}}"><p>人类和酵母居然这么像</p></a>
-          <footer>2015.04.10</footer>
-        </blockquote>
-        <blockquote>
-          <a href="{{url('new_7')}}"><p>基因疗法，你准备好了吗？</p></a>
-          <footer>2015.03.10</footer>
-        </blockquote>
+            <blockquote>
+                <a href="{{url('new_10')}}"><p>PNAS：HIV传播的隐秘机制</p></a>
+                <footer>2015.06.05</footer>
+            </blockquote>
+            <blockquote>
+              <a href="{{url('new_9')}}"><p>誓死保卫你，干细胞母亲</p></a>
+              <footer>2015.05.10</footer>
+            </blockquote>
+            <blockquote>
+              <a href="{{url('new_8')}}"><p>人类和酵母居然这么像</p></a>
+              <footer>2015.04.10</footer>
+            </blockquote>
+
         <blockquote>
             <a href="{{url('news')}}">更多新闻......</a>
         </blockquote>

@@ -137,6 +137,19 @@
                     </footer>
                 </article><!-- .post -->
 
+                <article class="post">
+                    <h2 class="entry-title"><a href="{{url('new_9')}}">PNAS：HIV传播的隐秘机制</a></h2>
+                    <div class="entry-content">
+                        近段时间，继韩国发现HIV病毒及韩国游客在我国发现疑似HIV病毒感染后，我国社会各界也开始加大对HIV病毒的关注。
+                    </div>
+                    <footer class="entry-meta">
+                        <span class="autor-name">邦禾生物</span>,
+                        <span class="time">06.05.2015</span>
+                        <span class="separator">|</span>
+                        <span class="meta">发布于 <a href="{{url('news')}}">行业新闻</a></span>
+                    </footer>
+                </article><!-- .post -->
+
                 <div class="pagination-box">
                     <ul class="pagination">
                         <li class="disabled"><a href="#"><i class="fa fa-angle-left"></i></a></li>

@@ -1,9 +1,9 @@
 @extends('master')
 
 @section('title')
-    <title>邦禾 - DNA百科</title>
-    <meta name="keywords" content="邦禾 - DNA百科">
-    <meta name="description" content="邦禾 - DNA百科">
+    <title>DNA百科 - 上海邦禾生物技术有限公司</title>
+    <meta name="keywords" content="DNA百科 - 上海邦禾生物技术有限公司">
+    <meta name="description" content="DNA百科 - 上海邦禾生物技术有限公司">
 @stop
 
 @section('content')

@@ -1,9 +1,9 @@
 @extends('product.product_master')
 
 @section('title')
-    <title>邦禾 - 男性健康套餐</title>
-    <meta name="keywords" content="邦禾 - 男性健康套餐">
-    <meta name="description" content="邦禾 - 男性健康套餐">
+    <title>男性健康套餐 - 上海邦禾生物技术有限公司</title>
+    <meta name="keywords" content="邦禾 - 男性健康套餐 上海邦禾生物技术有限公司">
+    <meta name="description" content="邦禾 - 男性健康套餐 上海邦禾生物技术有限公司">
 @stop
 
 @section('productTitle')
